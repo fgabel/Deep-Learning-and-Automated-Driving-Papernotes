@@ -6,4 +6,4 @@
 **Solution**: Combine the multiple levels of representation that have proved so effective in deep networks with the flexible use of long range context that empowers RNNs.
 
 **Notes**:
-*
+* 
