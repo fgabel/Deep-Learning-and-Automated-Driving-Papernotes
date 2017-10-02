@@ -5,6 +5,6 @@
 **Solution**: Propose an alternative RNN implementation by deliberately simplifying the state computation and exposing more parallelism. 
 
 **Notes**:
-* *Simple Recurrent Unit (SRU)* drop connections between consecutive states h<sub>t</sub> and h<sub>t-1</sub>, which previously broke independence and parallelization. Instead, use highway connections and variational dropout.
+* *Simple Recurrent Unit (SRU)* drop connections between consecutive states h<sub>t</sub> and h<sub>t-1</sub>, which previously broke independence and parallelization. Instead, use highway connections and variational dropout (variational dropout works by adding mulitplicative noise to the input of each layer during optimization).
 * Representational capabilities are preserved - SRUs also allow for using much more layers.
 * This way, the proposed recurrent unit operates as fast as a convolutional layer and 5-10x faster than cuDNN-optimized LSTM in classification, question answering, language modeling, translation and speech recognition tasks.
