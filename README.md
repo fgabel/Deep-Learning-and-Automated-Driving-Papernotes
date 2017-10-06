@@ -1,5 +1,6 @@
 # MACHINE LEARNING and DEEP LEARNING - papernotes
-notes and key points on ML / DL papers
+personal notes and key points on ML / DL papers
+
 10 / 2017
 
 - Learning Video Object Segmentation from Static Images
