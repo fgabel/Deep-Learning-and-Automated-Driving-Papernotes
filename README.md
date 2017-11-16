@@ -5,7 +5,7 @@ personal notes and key points on ML / DL papers
 11 / 2017
 
 - Video Object Segmentation with Re-identification
- [PDF](https://arxiv.org/pdf/1708.00197.pdf) - [short summary](-)
+ [PDF](https://arxiv.org/pdf/1708.00197.pdf) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Video%20Object%20Segmentation%20with%20Re-identification)
 
 
 10 / 2017
