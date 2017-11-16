@@ -1,6 +1,13 @@
 # MACHINE LEARNING and DEEP LEARNING - papernotes
 personal notes and key points on ML / DL papers
 
+
+11 / 2017
+
+- Video Object Segmentation with Re-identification
+ [PDF](https://arxiv.org/pdf/1708.00197.pdf) - [short summary](-)
+
+
 10 / 2017
 
 - Learning Video Object Segmentation from Static Images
