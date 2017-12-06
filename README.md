@@ -4,7 +4,7 @@ personal notes and key points on ML / DL papers
 12 / 2017
 
 - Dynamic Routing Between Capsules
- [PDF](https://arxiv.org/pdf/1710.09829.pdf) - [short summary](to be done)
+ [PDF](https://arxiv.org/pdf/1710.09829.pdf) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Dynamic%20Routing%20Between%20Capsules.md)
 
 11 / 2017
 
