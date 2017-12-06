@@ -1,6 +1,10 @@
 # MACHINE LEARNING and DEEP LEARNING - papernotes
 personal notes and key points on ML / DL papers
 
+12 / 2017
+
+- Dynamic Routing Between Capsules
+ [PDF](https://arxiv.org/pdf/1710.09829.pdf) - [short summary](to be done)
 
 11 / 2017
 
