@@ -3,9 +3,9 @@
 
 **Problem**: Neural networks don't really work similar to the human brain. Focussing on important features of some input vector space is worthwile.
 
-**Solution**: Try to simulate targeted human attention such as fixation point sequences in vision by building parse-trees of groups of neurons.
+**Solution**: Try to simulate how targeted human attention works; e.g. fixation point sequences in vision by building parse-trees of groups of neurons.
 
 **Notes**:
-* 
-
-
+* creating parse trees from a multilayer neural network works like carving a sculpture from a rock, whereby every layer is grouped into smallish groups of neurons called 'capsules'. Each node in a parase tree will correspond to an active capsule.
+* dynamic routing: 
+* performance on common classification tasks is similar to existing methods, but the introduction of capsules brings into play other desirable features
