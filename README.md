@@ -1,6 +1,11 @@
 # MACHINE LEARNING and DEEP LEARNING - papernotes
 personal notes and key points on ML / DL papers
 
+11 / 2018
+
+- Large Scale GAN Training for High Fidelity Natural Image Synthesis
+ [PDF](https://arxiv.org/pdf/1809.11096v1.pdf) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Dynamic%20Routing%20Between%20Capsules.md)
+
 12 / 2017
 
 - Dynamic Routing Between Capsules
