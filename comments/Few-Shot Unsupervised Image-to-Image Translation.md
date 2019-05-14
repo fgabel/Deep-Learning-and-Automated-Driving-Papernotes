@@ -1,6 +1,7 @@
 # [Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1905.01723.pdf)
 
-**Problem**: 
+**Problem**: Humans are much better at generalization than even the best DL algorithms and have the capability of picking up the essence of a novel object from a small number of examples. Today's algorithms typically need a large number of training examples to learn the joint distribution from marginal distributions.
+This paper seeks a few-shot (that is, a low number of training examples), unsupervised image-to-image translation algorithm that works on previously unseen target classes that are specified at test time, only by a few example images.
 
 **Solution**: 
 
