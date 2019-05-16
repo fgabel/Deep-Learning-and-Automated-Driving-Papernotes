@@ -4,7 +4,7 @@
 This paper bridges this gap by using a few-shot (that is, a low number of training examples), unsupervised image-to-image translation algorithm that works on previously unseen target classes that are specified at test time, only by a few example images.
 In other words, the target class is never seen and only given at test time which is quite unusual.
 
-**Solution**: A network called FUNIT (Few-shot UNsupervised Image-to-image Translation), consisting of essentially two novelties:
+**Solution**: A network called FUNIT (Few-shot UNsupervised Image-to-image Translation), consisting of essentially two novelties: first, the generator gets a whole set of target images (of course, not too many) as input to learn the style properly.
 
 **Notes**:
 * Instead of using a fully connected (FC) layer at the end, the authors use another convolutional layer with 5 kernels, each corresponding to a segmentation label. In doing so, the prediction at test time for a whole brain is 45 times faster.
