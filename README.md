@@ -1,6 +1,13 @@
 # MACHINE LEARNING and DEEP LEARNING - papernotes
 personal notes and key points on ML / DL papers
 
+
+04 / 2019
+
+- Few-Shot Unsupervised Image-to-Image Translation
+ [PDF](https://arxiv.org/abs/1905.01723) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Few-Shot%20Unsupervised%20Image-to-Image%20Translation.md)
+
+
 11 / 2018
 
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis
