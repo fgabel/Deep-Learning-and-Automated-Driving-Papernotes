@@ -1,6 +1,11 @@
 # MACHINE LEARNING and DEEP LEARNING - papernotes
 personal notes and key points on ML / DL papers
 
+05/ 2019
+
+- https://arxiv.org/pdf/1611.08408.pdf
+ [PDF](https://arxiv.org/pdf/1611.08408.pdf) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Few-Shot%20Unsupervised%20Image-to-Image%20Translation.md)
+
 
 04 / 2019
 
