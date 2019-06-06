@@ -4,7 +4,7 @@ personal notes and key points on ML / DL papers
 05/ 2019
 
 - Semantic Segmentation using Adversarial Networks
- [PDF](https://arxiv.org/pdf/1611.08408.pdf) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Few-Shot%20Unsupervised%20Image-to-Image%20Translation.md)
+ [PDF](https://arxiv.org/pdf/1611.08408.pdf) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Semantic%20Segmentation%20using%20Adversarial%20Networks.md)
 
 
 04 / 2019
