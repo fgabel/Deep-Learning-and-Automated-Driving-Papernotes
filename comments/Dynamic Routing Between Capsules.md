@@ -9,4 +9,4 @@
 * creating parse trees from a multilayer neural network works like carving a sculpture from a rock, whereby every layer is grouped into smallish groups of neurons called 'capsules'. Each node in a parase tree will correspond to an active capsule.
 * dynamic routing: describes the capability of a system to automatically forward data streams via a different route based on the current communication circuits in a system - contrast to static routing
 * performance on common classification tasks is similar to existing methods, but the introduction of capsules brings into play other desirable features
-* introduce CapsNet:
+* introduce CapsNet: see the illustrated tutorial [on my blog](https://www.machinelearningtutorial.net/2018/01/11/dynamic-routing-between-capsules-a-novel-architecture-for-convolutional-neural-networks/)
