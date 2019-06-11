@@ -1,6 +1,12 @@
 # MACHINE LEARNING and DEEP LEARNING - papernotes
 personal notes and key points on ML / DL papers
 
+06/ 2019
+
+- GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
+ [PDF](https://arxiv.org/abs/1811.10597) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/GAN%20Dissection:%20Visualizing%20and%20Understanding%20Generative%20Adversarial%20Networks.md)
+
+
 05/ 2019
 
 - Semantic Segmentation using Adversarial Networks
