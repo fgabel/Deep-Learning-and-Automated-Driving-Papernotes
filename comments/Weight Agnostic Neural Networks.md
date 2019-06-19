@@ -1,4 +1,4 @@
-# [Weight Agnostic Neural Networks.md](https://arxiv.org/abs/1906.04358)
+# [Weight Agnostic Neural Networks](https://arxiv.org/abs/1906.04358)
 
 **Problem**: That some neural network architectures work better than others is well known, but not well understood. Given that neural network outputs are a function of both its architecture and its weights, the relative importance of the architecture is deemed interesting (e.g. in the context of neural architecture search).
 **Solution**:
