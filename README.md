@@ -3,7 +3,7 @@ personal notes and key points on ML / DL papers
 
 06/ 2019
 - Weight Agnostic Neural Networks
- [PDF](https://arxiv.org/abs/1906.04358) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Adversarial%20Examples%20Are%20Not%20Bugs%2C%20They%20Are%20Features.md)
+ [PDF](https://arxiv.org/abs/1906.04358) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Weight%20Agnostic%20Neural%20Networks.md)
 - Adversarial Examples Are Not Bugs, They Are Features
  [PDF](https://arxiv.org/pdf/1905.02175v2.pdf) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Adversarial%20Examples%20Are%20Not%20Bugs%2C%20They%20Are%20Features.md)
 - GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
