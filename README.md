@@ -4,7 +4,7 @@ personal notes and key points on ML / DL papers
 06/ 2019
 
 - VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
- [PDF](https://arxiv.org/pdf/1711.06396.pdf) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/)
+ [PDF](https://arxiv.org/pdf/1711.06396.pdf) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/VoxelNet:%20End-to-End%20Learning%20for%20Point%20Cloud%20Based%203D%20Object%20Detection)
 - Visualizing the Loss Landscape of Neural Nets
  [PDF](https://arxiv.org/abs/1712.09913) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Visualizing%20the%20Loss%20Landscape%20of%20Neural%20Nets.md)
 - Weight Agnostic Neural Networks
