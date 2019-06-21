@@ -3,7 +3,7 @@ personal notes and key points on ML / DL papers
 
 06/ 2019
 - Visualizing the Loss Landscape of Neural Nets
- [PDF](https://arxiv.org/abs/1712.09913) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Weight%20Agnostic%20Neural%20Networks.md)
+ [PDF](https://arxiv.org/abs/1712.09913) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Visualizing%20the%20Loss%20Landscape%20of%20Neural%20Nets.md)
 - Weight Agnostic Neural Networks
  [PDF](https://arxiv.org/abs/1906.04358) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Weight%20Agnostic%20Neural%20Networks.md)
 - Adversarial Examples Are Not Bugs, They Are Features
