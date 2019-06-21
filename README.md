@@ -2,16 +2,19 @@
 personal notes and key points on ML / DL papers
 
 06/ 2019
+- Visualizing the Loss Landscape of Neural Nets
+ [PDF](https://arxiv.org/abs/1712.09913) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Weight%20Agnostic%20Neural%20Networks.md)
 - Weight Agnostic Neural Networks
  [PDF](https://arxiv.org/abs/1906.04358) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Weight%20Agnostic%20Neural%20Networks.md)
 - Adversarial Examples Are Not Bugs, They Are Features
  [PDF](https://arxiv.org/pdf/1905.02175v2.pdf) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Adversarial%20Examples%20Are%20Not%20Bugs%2C%20They%20Are%20Features.md)
-- GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
- [PDF](https://arxiv.org/abs/1811.10597) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/GAN%20Dissection:%20Visualizing%20and%20Understanding%20Generative%20Adversarial%20Networks.md)
+
 
 
 05/ 2019
 
+- GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
+ [PDF](https://arxiv.org/abs/1811.10597) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/GAN%20Dissection:%20Visualizing%20and%20Understanding%20Generative%20Adversarial%20Networks.md)
 - Semantic Segmentation using Adversarial Networks
  [PDF](https://arxiv.org/pdf/1611.08408.pdf) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Semantic%20Segmentation%20using%20Adversarial%20Networks.md)
 
