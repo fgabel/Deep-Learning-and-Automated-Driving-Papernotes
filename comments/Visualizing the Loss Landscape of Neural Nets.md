@@ -4,6 +4,8 @@
 **Solution**: 
 
 **Notes**:
-* 
+* Preface: On a side note: For large-size networks, most local minima are equivalent and yield similar performance on a test set (see (this paper)[https://arxiv.org/pdf/1412.0233v3.pdf]
+
+
 
 
