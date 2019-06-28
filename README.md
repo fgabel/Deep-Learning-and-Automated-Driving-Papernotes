@@ -33,6 +33,12 @@ personal notes and key points on ML / DL papers
 - Large Scale GAN Training for High Fidelity Natural Image Synthesis
  [PDF](https://arxiv.org/pdf/1809.11096v1.pdf) - [short summary](https://github.com/fgabel/MACHINE-LEARNING-and-DEEP-LEARNING-papernotes/blob/master/comments/Large%20Scale%20GAN%20Training%20for%20High%20Fidelity%20Natural%20Image%20Synthesis.md)
 
+10 / 2018
+
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+ [PDF](https://arxiv.org/abs/1810.04805) - [short summary]()
+
+
 12 / 2017
 
 - Dynamic Routing Between Capsules
