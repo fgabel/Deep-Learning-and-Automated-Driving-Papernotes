@@ -1,25 +1,7 @@
-<style TYPE="text/css">
-code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
-</style>
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-    tex2jax: {
-        inlineMath: [['$','$'], ['\\(','\\)']],
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // removed 'code' entry
-    }
-});
-MathJax.Hub.Queue(function() {
-    var all = MathJax.Hub.getAllJax(), i;
-    for(i = 0; i < all.length; i += 1) {
-        all[i].SourceElement().parentNode.className += ' has-jax';
-    }
-});
-</script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full"></script>
 # [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913)
 
 **Problem**: Typically, loss functions of neural networks are highly non-convex and therefore possess many different local minima an optimizer can get stuck in - in fact, what one finds in general is a particular local minimum that generalizes well (see, e.g. (here)[https://stats.stackexchange.com/questions/106334/cost-function-of-neural-network-is-non-convex].
-
+Visualizing these loss functions is highly prohibitive as they have as many dimensions as there are weights in a network (the loss is a function of feature/label pairs X/y and weights W).
 **Solution**: 
 * The authors propose a visualization method called "filter normalization"
 **Notes**:
