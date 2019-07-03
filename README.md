@@ -1,5 +1,7 @@
-# MACHINE LEARNING and DEEP LEARNING - papernotes
+# MACHINE LEARNING and DEEP LEARNING > papernotes
 personal notes and key points on ML / DL papers
+
+
 
 06/ 2019
 
