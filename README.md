@@ -1,4 +1,4 @@
-# MACHINE LEARNING and DEEP LEARNING > papernotes
+# DEEP LEARNING and AUTOMATED DRIVING > papernotes
 personal notes and key points on ML / DL papers
 
 
