@@ -67,5 +67,3 @@ personal notes and key points on ML / DL papers
 **Section: Automated Driving
 
 *06 / 2017*
-
-![m'lady](https://i.imgur.com/v8IVDka.jpg)
