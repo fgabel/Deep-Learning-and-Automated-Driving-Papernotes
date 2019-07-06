@@ -8,7 +8,7 @@ personal notes and key points on papers related to DL and AD papers
 - LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving [PDF](https://arxiv.org/abs/1903.08701) - [coming soon]()
 
 
-*06/ 2019*
+*06 / 2019*
 
 - VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
  [PDF](https://arxiv.org/pdf/1711.06396.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/VoxelNet:%20End-to-End%20Learning%20for%20Point%20Cloud%20Based%203D%20Object%20Detection)
@@ -21,7 +21,7 @@ personal notes and key points on papers related to DL and AD papers
 
 
 
-*05/ 2019*
+*05 / 2019*
 
 - GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
  [PDF](https://arxiv.org/abs/1811.10597) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/GAN%20Dissection:%20Visualizing%20and%20Understanding%20Generative%20Adversarial%20Networks.md)
