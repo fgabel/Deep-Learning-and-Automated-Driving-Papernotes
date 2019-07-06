@@ -68,4 +68,4 @@ personal notes and key points on ML / DL papers
 
 *06 / 2017*
 
-- Self-Driving Cars: A Survey [ARXIV](https://arxiv.org/abs/1901.04407) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Training%20RNNs%20as%20Fast%20as%20CNNs.md)
+- Self-Driving Cars: A Survey [PDF](https://arxiv.org/abs/1901.04407) - [short summary]()
