@@ -1,5 +1,5 @@
 # DEEP LEARNING and AUTOMATED DRIVING > papernotes
-personal notes and key points on ML / DL papers
+personal notes and key points on papers related to DL and AD papers
 
 ## Section: Deep Learning 
 
