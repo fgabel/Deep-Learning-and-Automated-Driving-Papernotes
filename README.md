@@ -71,8 +71,11 @@ personal notes and key points on papers related to DL and AD papers
 
 ## Section: Automated Driving
 
+*07 / 2017*
+
+- ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst [PDF](https://arxiv.org/abs/1812.03079) - [short summary](coming soon)
+
 *06 / 2017*
 
 - Self-Driving Cars: A Survey [PDF](https://arxiv.org/abs/1901.04407) - [short summary]()
 - LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving [PDF](https://arxiv.org/abs/1903.08701) - [short summary](coming soon)
-- ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst [PDF](https://arxiv.org/abs/1812.03079) - [short summary](coming soon)
