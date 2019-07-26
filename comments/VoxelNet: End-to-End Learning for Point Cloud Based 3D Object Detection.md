@@ -7,4 +7,4 @@ Accurate detection of objects in 3D point clouds is central to many applications
 **Solution**: VoxelNet divides a point cloud into equally spaced 3D [voxels](https://en.wikipedia.org/wiki/Voxel) and transforms a group of points within each voxel into a unified feature representation through the newly introduced voxel feature encoding (VFE) layer. In this way, the point cloud is encoded as a descriptive volumetric representation, which is then connected to a RPN to generate detections.
 
 **Notes**:
-* 
+* TBD
