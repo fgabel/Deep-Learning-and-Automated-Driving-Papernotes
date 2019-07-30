@@ -6,7 +6,7 @@ personal notes and key points on papers related to DL and AD papers
 *07 / 2019*
 
 - LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving [PDF](https://arxiv.org/abs/1903.08701) - [coming soon]()
-
+- A Survey of Deep Learning-based Object Detection [PDF](https://arxiv.org/pdf/1907.09408.pdf) - [coming soon]()
 
 *06 / 2019*
 
