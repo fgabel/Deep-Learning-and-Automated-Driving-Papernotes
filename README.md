@@ -3,6 +3,10 @@ personal notes and key points on papers related to DL and AD papers
 
 ## Section: Deep Learning 
 
+*08 / 2019*
+
+- Hybrid Task Cascade for Instance Segmentation [PDF](https://arxiv.org/abs/1901.07518) - [coming soon]()
+
 *07 / 2019*
 
 - LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving [PDF](https://arxiv.org/abs/1903.08701) - [coming soon]()
