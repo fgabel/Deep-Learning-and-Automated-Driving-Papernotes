@@ -10,8 +10,4 @@ image modeling. This paper deals with using adversarial training to produce real
 **Notes**:
 * [*Conditional Markov random fields (CRFs)*](https://medium.com/ml2vec/overview-of-conditional-random-fields-68a2a20fa541) are one of the most effective approaches to enforce spatial contiguity in the output label maps. However, typically only pairwise potentials can be learned (relationships between neighbouring pixels).
 
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-
 ![hs](https://raw.githubusercontent.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/master/comments/adv.png)
