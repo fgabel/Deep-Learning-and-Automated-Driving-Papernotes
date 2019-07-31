@@ -14,4 +14,4 @@ image modeling. This paper deals with using adversarial training to produce real
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-![Image of Yaktocat](https://raw.githubusercontent.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/master/comments/adv.png)
+![hs](https://raw.githubusercontent.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/master/comments/adv.png)
