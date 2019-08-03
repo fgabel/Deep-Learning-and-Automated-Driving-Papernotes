@@ -4,7 +4,7 @@ personal notes and key points on papers related to DL and AD papers
 ## Section: Deep Learning 
 
 *08 / 2019*
-
+- Fast Online Object Tracking and Segmentation: A Unifying Approach [PDF](https://arxiv.org/abs/1812.05050)
 - Hybrid Task Cascade for Instance Segmentation [PDF](https://arxiv.org/abs/1901.07518) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Hybrid%20Task%20Cascade%20for%20Instance%20Segmentation.md)
 
 *07 / 2019*
