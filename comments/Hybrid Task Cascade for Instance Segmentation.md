@@ -10,4 +10,6 @@ secondly, background clutters make object instances hard to be isolated.
 
 
 **Solution**:
+* **Hybrid Task Cascade**
+![HTC](../images/htc.png?raw=true "Hybrid Task Cascade Architecture")
 * The key to a successful instance segmentation cascade is to fully leverage the reciprocal relationship between detection and segmentation.
