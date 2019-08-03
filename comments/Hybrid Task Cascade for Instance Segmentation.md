@@ -7,9 +7,12 @@ secondly, background clutters make object instances hard to be isolated.
 **Notes**:
 * The current state-of-the-art architecture is based on *cascades* which means a sequence of detectors trained with increasing IoU thresholds (that learn from each others and eradicate each other's weaknesses), mitigating the problem of low-quality detections (which appear when e.g. a IoU threshold of 0.5 is used).
 * Most really accurate object detection algorithms have been two-stage detectors (e.g. Fast(er) RCNN, as supposed to one-stage detectors like YOLO or SSD) in the past, but more recently, so-called multi-stage detectors have come up, incorporateing an iterative localization mechanism that alternates between box scoring and location refinement.
-
+* The key to a successful instance segmentation cascade is to fully leverage the reciprocal relationship between detection and segmentation.
 
 **Solution**:
 * **Hybrid Task Cascade**
 ![HTC](../images/htc.png?raw=true "Hybrid Task Cascade Architecture")
-* The key to a successful instance segmentation cascade is to fully leverage the reciprocal relationship between detection and segmentation.
+ The architecture evolution from Cascade Mask R-CNN to Hybrid Task Cascade consists of the following:
+In (a), a cascaded Mask R-CNN is depicted - hereby, the different stages relate to models trained on different IoU thresholds, making it easier for higher-level models (i.e. high IoU) to learn from mistakes of earlier models (i.e. lower IoU). 
+In (b),  bounding box regression and mask prediction is *interleaved* instead of executing them in parallel, so M1 (mask predictions of stage 1) has access to B1 (bounding box predictions of stage 1).
+In (c), the masks of different stages have connections between them. In (d), a semantic segmentation head is added to capture higher-level interactions, and further help distinguishing the foreground from the cluttered background.
