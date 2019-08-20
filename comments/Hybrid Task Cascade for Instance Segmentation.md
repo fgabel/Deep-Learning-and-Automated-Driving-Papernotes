@@ -11,9 +11,8 @@ secondly, background clutters make object instances hard to be isolated.
 * The key to a successful instance segmentation cascade is to fully leverage the reciprocal relationship between detection and segmentation.
 
 **Solution**:
-* **Hybrid Task Cascade**
 ![HTC](../images/htc.png?raw=true "Hybrid Task Cascade Architecture")
- The architecture evolution from Cascade Mask R-CNN to Hybrid Task Cascade consists of the following:
-In (a), a cascaded Mask R-CNN is depicted - hereby, the different stages relate to models trained on different IoU thresholds, making it easier for higher-level models (i.e. high IoU) to learn from mistakes of earlier models (i.e. lower IoU). 
-In (b),  bounding box regression and mask prediction is *interleaved* instead of executing them in parallel, so M1 (mask predictions of stage 1) has access to B1 (bounding box predictions of stage 1).
-In (c), the masks of different stages have connections between them. In (d), a semantic segmentation head is added to capture higher-level interactions, and further help distinguishing the foreground from the cluttered background.
+* Progressively refine mask predictions by using a cascade framework: **Hybrid Task Cascade**. The above Figure illustrates the components of this framework nicely:
+* In (a), a cascaded Mask R-CNN is depicted - hereby, the different stages relate to models trained on different IoU thresholds. Region proposals are then only considered if their IoU with a ground truth BB is higher than this threshold. The idea here is to have subsequent stages make use of different trade-offs between false-positives (i.e. found masks that do not contain objects, happens with low IoU thresholds) and false-negatives (i.e. objects that are not found, happens with high IoU thresholds), making it easier for higher-level models (i.e. high IoU) to learn from mistakes of earlier models (i.e. lower IoU). In this way, cascaded networks are multi-stage detectors.
+* In (b),  bounding box regression and mask prediction is *interleaved* instead of executing them in parallel, so M1 (mask predictions of stage 1) has access to B1 (bounding box predictions of stage 1), allowing it to leverage the information contained in the bounding boxes.
+* In (c), only the masks of different stages have connections between them. In (d), a global semantic segmentation head is added to capture higher-level interactions, and further help distinguishing the foreground from the cluttered background.
