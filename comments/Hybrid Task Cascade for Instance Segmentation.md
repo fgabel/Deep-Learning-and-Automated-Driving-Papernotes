@@ -1,6 +1,7 @@
 # [Hybrid Task Cascade for Instance Segmentation](https://arxiv.org/pdf/1901.07518.pdf)
 
-**Problem**: * *Instance segmentation* is the problem of detecting and delineating each distinct object of interest appearing in an image (and labeling them in a pixel-wise manner, e.g. Person 1, Person 2 etc.). 
+**Problem**: 
+* *Instance segmentation* is the problem of detecting and delineating each distinct object of interest appearing in an image (and labeling them in a pixel-wise manner, e.g. Person 1, Person 2 etc.). In a way, instance segmentation can be interpreted as the unification of (individual) object detection and semantic segmentation.
 * Instance segmentation is hard for two reasons: firstly, visual objects are often subject to deformation, occlusion and scale changes.
 secondly, background clutters make object instances hard to be isolated.
 
