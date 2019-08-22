@@ -75,6 +75,14 @@ personal notes and key points on papers related to DL and AD papers
 
 ## Section: Automated Driving
 
+*08 / 2019*
+
+- DynaNet: Neural Kalman Dynamical Model
+for Motion Estimation and Prediction [PDF](https://arxiv.org/pdf/1908.03918.pdf) - [short summary]()
+- A Multimodal Vision Sensor for Autonomous Driving [PDF](https://arxiv.org/pdf/1908.05649.pdf) - [short summary]()
+- Deep Sensor Fusion for Real-Time Odometry Estimation [PDF](https://arxiv.org/pdf/1908.00524.pdf) - [short summary]()
+
+
 *07 / 2019*
 
 - ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst [PDF](https://arxiv.org/abs/1812.03079) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/ChauffeurNet:%20Learning%20to%20Drive%20by%20Imitating%20the%20Best%20and%20Synthesizing%20the%20Worst.md)
