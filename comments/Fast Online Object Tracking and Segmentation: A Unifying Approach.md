@@ -10,4 +10,6 @@
 
 
 **Notes**:
-* TBD Network architecture, three branch - two branch stuff
+* SiamMask works by leveraging Siamese CNNs, which have equal branches with shared weights. By feeding two different inputs, the repective outputs can be compared to learn about similarity (or further processed). In SiamMask, the two inputs correspond to 1) a crop centered on the target object and 2) a larger crop centered on the last estimated position of the target. 
+* The crucial idea is to try and maximize the similarity (over different randomized search areas) and thereby gain an understanding of the direction the target object moves to. By using Region proposal networks as CNNs, the outputs of the Siamese networks are region proposals whose similarity can be compared, yielding bounding box coordinates and similarity scores.
+* The authors also introduce frame-wise binary segmentations within the predicted masks. This 
