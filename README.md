@@ -3,6 +3,10 @@ personal notes and key points on papers related to DL and AD papers
 
 ## Section: Deep Learning 
 
+*09/ 2019*
+
+- A critique of pure learning: what artificial neural nets can learn from animal brains [PDF](https://www.biorxiv.org/content/biorxiv/early/2019/03/20/582643.full.pdf) - [short summary](coming soon)
+
 *08 / 2019*
 - Events-to-Video: Bringing Modern Computer Vision to Event Cameras [PDF](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf) - [short summary](coming soon)
 - Fast Online Object Tracking and Segmentation: A Unifying Approach [PDF](https://arxiv.org/abs/1812.05050) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Fast%20Online%20Object%20Tracking%20and%20Segmentation:%20A%20Unifying%20Approach.md)
