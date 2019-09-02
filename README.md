@@ -5,7 +5,7 @@ personal notes and key points on papers related to DL and AD papers in under 500
 
 *09/ 2019*
 
-- A critique of pure learning: what artificial neural nets can learn from animal brains [PDF](https://www.biorxiv.org/content/biorxiv/early/2019/03/20/582643.full.pdf) - [short summary](coming soon)
+- A critique of pure learning: what artificial neural nets can learn from animal brains [PDF](https://www.biorxiv.org/content/biorxiv/early/2019/03/20/582643.full.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/A%20critique%20of%20pure%20learning:%20what%20artificial%20neural%20nets%20can%20learn%20from%20animal%20brains.md)
 
 *08 / 2019*
 - Events-to-Video: Bringing Modern Computer Vision to Event Cameras [PDF](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf) - [short summary](coming soon)
