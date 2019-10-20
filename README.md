@@ -85,6 +85,10 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 ## Section: Automated Driving
 
+*10 / 2019*
+
+- Autonomous Vehicle Implementation Prediction [PDF](https://www.vtpi.org/avip.pdf) - [short summary]()
+
 *08 / 2019*
 
 - DynaNet: Neural Kalman Dynamical Model
