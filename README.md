@@ -3,6 +3,11 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 ## Section: Deep Learning 
 
+*10/ 2019*
+
+- VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
+ [PDF](https://arxiv.org/abs/1711.06396) - [short summary](coming soon)
+
 *09/ 2019*
 
 - A critique of pure learning: what artificial neural nets can learn from animal brains [PDF](https://www.biorxiv.org/content/biorxiv/early/2019/03/20/582643.full.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/A%20critique%20of%20pure%20learning:%20what%20artificial%20neural%20nets%20can%20learn%20from%20animal%20brains.md)
