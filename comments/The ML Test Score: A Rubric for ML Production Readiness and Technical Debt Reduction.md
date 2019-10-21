@@ -2,11 +2,13 @@
 
 In this paper summary, I will explain some background in the notes below, so if you are unfamiliar with some terms, there is a good chance it is explained in the *notes* section.
 
-**Problem**: - Creating reliable, production-level machine learning systems brings on a host of concerns not found in
+**Problem**: 
+- Creating reliable, production-level machine learning systems brings on a host of concerns not found in
 small toy examples or even large offline research experiments.
 - To get a ML system ready for production and to reduce its technical debt, testing and monitoring are key considerations. It is, however, unclear how to formulate specific tests.
 
- **Solution**: - This paper identifies 28 specific tests and monitoring needs, drawn from experience with a wide range of production ML systems to help quantify these issues and present an easy to follow road-map to improve production readiness and pay down ML technical debt.
+ **Solution**: 
+ - This paper identifies 28 specific tests and monitoring needs, drawn from experience with a wide range of production ML systems to help quantify these issues and present an easy to follow road-map to improve production readiness and pay down ML technical debt.
 
 **28 specific test and monitoring needs**
 
