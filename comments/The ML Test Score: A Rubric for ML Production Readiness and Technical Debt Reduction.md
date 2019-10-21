@@ -1,5 +1,4 @@
-# [The ML Test Score:
-A Rubric for ML Production Readiness and Technical Debt Reduction](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf)
+# [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf)
 
 In this paper summary, I will explain some background in the notes below, so if you are unfamiliar with some terms, there is a good chance it is explained in the *notes* section.
 
