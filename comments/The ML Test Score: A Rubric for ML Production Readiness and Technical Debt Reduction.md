@@ -27,6 +27,12 @@ small toy examples or even large offline research experiments.
 - *MODELS* **5: Testing against a simple model** Getting baseline predictions from a simple model helps confirming the usefulness of a whole pipeline.
 - *MODELS* **6:Model quality is sufficient on all important data slices** Subsetting data and checking performance on this *slice* might help find corner cases that are not covered by the training data distribution.
 - *MODELS* **7: Bias in training data** It's an empirical fact that ML models tend to be biased (learned from training data). Getting rid of this bias is not trivial and involves an accurate specification of an expected distribution of data along certain dimensions. For example, in an automated driving object detection scenario, certain classes might be underrepresented and thereby not learned at all.
+- *INFRASTRUCTURE* **1: Reproducible Training** Ensuring determinism helps with auditing and tracking errors. However, this is hard, and even seeding (of RNG operations) and tracking training data order might not help as not every operation is guaranteed to be atomic in multi-threaded environments.
+- *INFRASTRUCTURE* **2: Unit Tests in model specification code** This relates to algorithmic correctness of involved libraries (testable by feeding random input data and performing one epoch of training) as well as ML APIs (this is harder to test and involves e.g. performing assertions on subcomputations like single RNN cells or similar).
+- *INFRASTRUCTURE* **3: Integration test of the full ML pipeline** A complete ML pipeline typically consists of assembling
+training data, feature generation, model training, model verification, and deployment to a serving system. Each of these steps can introduce errors. Therefore, there should, for example, be an automated test spanning the whole pipeline as opposed to many single ones.
+- *INFRASTRUCTURE* **4: Validation before production readiness** Before a model can reach production, it must automatically be validated for sufficient quality - it is important to test for both slow degradations in quality over many versions as well as sudden drops in predictive performance.
+a new version.
 **Notes**:
 * Technical debt is a common computer science metaohor for the possible consequences of poor technical implementation of software. It can very much be compared to monetary debt. If technical debt is not repaid, it can accumulate 'interest', making it harder to implement changes later on. 
 
