@@ -7,7 +7,7 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 - The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction
  [PDF](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/The%20ML%20Test%20Score:%20A%20Rubric%20for%20ML%20Production%20Readiness%20and%20Technical%20Debt%20Reduction.md)
-  - TLDR: Bringing software engineering best practices to deep learning.
+  - **TLDR**: Bringing software engineering best practices to deep learning.
 - VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
  [PDF](https://arxiv.org/abs/1711.06396) - [short summary](coming soon)
 
