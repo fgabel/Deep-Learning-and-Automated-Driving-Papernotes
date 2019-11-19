@@ -2,7 +2,13 @@
 personal notes and key points on papers related to DL and AD papers in under 400 words
 
 ## Section: Deep Learning 
+*11/2019*
 
+- Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization
+Uncertainty for Autonomous Driving
+ [PDF](https://arxiv.org/pdf/1904.04620.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Gaussian%20YOLOv3:%20An%20Accurate%20and%20Fast%20Object%20Detector%20Using%20Localization%20Uncertainty%20for%20Autonomous%20Driving.md)
+  - **TLDR**: Modelling the uncertainty in bounding box predictions of YOLOv3 as a Gaussian parameter.
+  
 *10/ 2019*
 
 - The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction
