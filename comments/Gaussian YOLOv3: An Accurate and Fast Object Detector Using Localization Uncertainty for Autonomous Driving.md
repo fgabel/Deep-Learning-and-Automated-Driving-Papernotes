@@ -5,4 +5,9 @@
 
 **Solution**: Model the bounding box with Gaussian variables (consisting of a mean and variance component).
 
-**Notes**:
+**Notes**: - The central contribution is to add a notion of confidence/uncertainty to the bounding box **coordinates** -  not only for objectness scores and class probabilities within each candidate box.
+- YOLOv3 uses the sum of the squared error loss for bbox, and the binary cross-entropy loss for the
+objectness and class. Because the bbox coordinates are output as Gaussian parameters (mean mu and variance sigma), the
+loss function of bbox is redesigned as a negative log likelihood (NLL) loss - pretty straightforward.
+- By adding this localization uncertainty, the authors state that the proposed algorithm improves the accuracy, increases the TP, and significantly reduces the FP while maintaining the real-time capability. 
+- It's not entirely clear how adding this uncertainty metric relates to improved measures of detection performance and by which mechanism results improve causally.
