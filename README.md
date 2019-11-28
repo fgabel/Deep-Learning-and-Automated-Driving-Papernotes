@@ -4,6 +4,9 @@ personal notes and key points on papers related to DL and AD papers in under 400
 ## Section: Deep Learning 
 *11/2019*
 
+- Stereo R-CNN based 3D Object Detection for Autonomous Driving
+ [PDF](https://arxiv.org/pdf/1902.09738.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Rethinking%20Atrous%20Convolution%20for%20Semantic%20Image%20Segmentation.md)
+  - **TLDR**: End-to-end learning of an 3D object detection model using stereo camera inputs.
 - Rethinking Atrous Convolution for Semantic Image Segmentation (DeepLab)
  [PDF](https://arxiv.org/abs/1706.05587) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Rethinking%20Atrous%20Convolution%20for%20Semantic%20Image%20Segmentation.md)
   - **TLDR**: Use techniques such as atrous convolution and atrous spatial pyramid pooling to effectively control field-of-view of filters.
