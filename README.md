@@ -9,7 +9,7 @@ personal notes and key points on papers related to DL and AD papers in under 400
   - **TLDR**: End-to-end learning of an 3D object detection model using stereo camera inputs.
 - Rethinking Atrous Convolution for Semantic Image Segmentation (DeepLab)
  [PDF](https://arxiv.org/abs/1706.05587) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Rethinking%20Atrous%20Convolution%20for%20Semantic%20Image%20Segmentation.md)
-  - **TLDR**: Use techniques such as atrous convolution and atrous spatial pyramid pooling to effectively control field-of-view of filters.
+  - **TLDR**: Atrous convolutions resolves the issue of intentional information loss through maxpooling. Also, control the field-of-view of filters more efficiently.
 - Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization
 Uncertainty for Autonomous Driving
  [PDF](https://arxiv.org/pdf/1904.04620.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Gaussian%20YOLOv3:%20An%20Accurate%20and%20Fast%20Object%20Detector%20Using%20Localization%20Uncertainty%20for%20Autonomous%20Driving.md)
