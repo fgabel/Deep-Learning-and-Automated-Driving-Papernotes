@@ -8,13 +8,19 @@
 
 ![HTC](../images/multi-scale-architectures.png?raw=true "Alternative architectures to capture multi-scale context.")
 
+* The repeated combination of max-pooling and striding at consecutive layers of these networks significantly reduces
+the spatial resolution of the resulting feature maps. Deconvolution remedies this, but max-pooling still "throws away" information.
+
 **Solution**:
-* Atrous convolution (aka dilated convolution), fixes this by leaving "holes" in the filters, adding an additional hyperparameter (called the *rate*).
+* Atrous convolution (aka dilated convolution), fixes this by leaving "holes" in the filters, adding an additional hyperparameter (called the *rate*). This is equivalent to spatially expanding filters by adding zeros in between filter weights.
+
 ![HTC](../images/atrous_conv.png?raw=true "Atrous convolution with kernel size 3 × 3 and different
 rates. Standard convolution corresponds to atrous convolution
 with rate = 1. Employing large value of atrous rate enlarges the
 model’s field-of-view, enabling object encoding at multiple scales.")
 
 **Notes**:
-* The repeated combination of max-pooling and striding at consecutive layers of these networks significantly reduces
-the spatial resolution of the resulting feature maps. Deconvolution remedies this, but max-pooling still 
+
+* The authors emulate the above architectures with atrous convolutions: for one, they arrange atrous convolutional layers in cascade (similar to feature pyramids) and in parallel with different rates(similar to spatial pyramid pooling).
+* Patches are cropped from the image during training. For atrous convolution with large rates to be effective, large
+crop size is required; otherwise, the filter weights with large atrous rate are mostly applied to the padded zero region. 
