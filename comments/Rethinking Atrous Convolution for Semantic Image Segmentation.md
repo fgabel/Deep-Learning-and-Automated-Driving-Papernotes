@@ -23,4 +23,5 @@ model’s field-of-view, enabling object encoding at multiple scales.")
 
 * The authors emulate the above architectures with atrous convolutions: for one, they arrange atrous convolutional layers in cascade (similar to feature pyramids) and in parallel with different rates(similar to spatial pyramid pooling).
 * Patches are cropped from the image during training. For atrous convolution with large rates to be effective, large
-crop size is required; otherwise, the filter weights with large atrous rate are mostly applied to the padded zero region. 
+crop size is required; otherwise, the filter weights with large atrous rate are mostly applied to the padded zero region.
+* Atrous convolutions are main building blocks for DeepLab, an architecture dominating [semantic segmentation state-of-the-art leaderboards](https://paperswithcode.com/task/semantic-segmentation).
