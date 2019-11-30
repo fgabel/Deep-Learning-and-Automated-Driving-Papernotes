@@ -102,7 +102,7 @@ Uncertainty for Autonomous Driving
 
 *10 / 2019*
 
-- Autonomous Vehicle Implementation Prediction [PDF](https://www.vtpi.org/avip.pdf) - [short summary]()
+- Autonomous Vehicle Implementation Prediction [PDF](https://www.vtpi.org/avip.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Autonomous%20Vehicle%20Implementation%20Predictions.md)
 
 *08 / 2019*
 
