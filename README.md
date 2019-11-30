@@ -2,11 +2,13 @@
 personal notes and key points on papers related to DL and AD papers in under 400 words
 
 ## Section: Deep Learning 
+*12/2019*
+
+- Adversarial Examples Improve Image Recognition
+ [PDF](https://arxiv.org/pdf/1911.09665.pdf) - [short summary]()
+
 *11/2019*
 
-- Stereo R-CNN based 3D Object Detection for Autonomous Driving
- [PDF](https://arxiv.org/pdf/1902.09738.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Rethinking%20Atrous%20Convolution%20for%20Semantic%20Image%20Segmentation.md)
-  - **TLDR**: End-to-end learning of an 3D object detection model using stereo camera inputs.
 - Rethinking Atrous Convolution for Semantic Image Segmentation (DeepLab)
  [PDF](https://arxiv.org/abs/1706.05587) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Rethinking%20Atrous%20Convolution%20for%20Semantic%20Image%20Segmentation.md)
   - **TLDR**: Atrous convolutions resolves the issue of intentional information loss through maxpooling. Also, control the field-of-view of filters more efficiently.
@@ -99,6 +101,12 @@ Uncertainty for Autonomous Driving
 - Brain Tumor Segmentation with Deep Neural Networks [ARXIV](https://arxiv.org/pdf/1505.03540.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Brain%20Tumor%20Segmentation%20with%20Deep%20Neural%20Networks.md)
 
 ## Section: Automated Driving
+
+*11 / 2019*
+
+- Stereo R-CNN based 3D Object Detection for Autonomous Driving
+ [PDF](https://arxiv.org/pdf/1902.09738.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Rethinking%20Atrous%20Convolution%20for%20Semantic%20Image%20Segmentation.md)
+  - **TLDR**: End-to-end learning of an 3D object detection model using stereo camera inputs.
 
 *10 / 2019*
 
