@@ -6,6 +6,7 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 - Adversarial Examples Improve Image Recognition
  [PDF](https://arxiv.org/pdf/1911.09665.pdf) - [short summary]()
+  - **TLDR**: Image classification is already at human level, but it can further be improved with adversarial examples.
 
 *11/2019*
 
