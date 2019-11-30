@@ -104,6 +104,7 @@ Uncertainty for Autonomous Driving
 
 - Autonomous Vehicle Implementation Prediction [PDF](https://www.vtpi.org/avip.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Autonomous%20Vehicle%20Implementation%20Predictions.md)
   - **TLDR**: Autonomous cars might cause enormous benefits to society, but we're not there yet. From an city planning perspective.
+  
 *08 / 2019*
 
 - DynaNet: Neural Kalman Dynamical Model
