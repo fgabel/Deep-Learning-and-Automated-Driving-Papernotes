@@ -105,8 +105,7 @@ Uncertainty for Autonomous Driving
 
 *12 / 2019*
 
-- Certifiability of Deep Learning models in security critical industries such as automotive
-- [short summary]()
+- Certifiability of Deep Learning models in security critical industries such as automotive [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Certifiability%20of%20Deep%20Learning%20models%20in%20security%20critical%20industries%20such%20as%20automotive.md)
   - **TLDR**: Large-scale deployment of deep learning models needs certification from authorities, which does not exist yet.
 
 *11 / 2019*
