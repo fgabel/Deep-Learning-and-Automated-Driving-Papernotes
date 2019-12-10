@@ -103,6 +103,12 @@ Uncertainty for Autonomous Driving
 
 ## Section: Automated Driving
 
+*12 / 2019*
+
+- Certifiability of Deep Learning models in security critical industries such as automotive
+- [short summary]()
+  - **TLDR**: Large-scale deployment of deep learning models needs certification from authorities, which does not exist yet.
+
 *11 / 2019*
 
 - Stereo R-CNN based 3D Object Detection for Autonomous Driving
