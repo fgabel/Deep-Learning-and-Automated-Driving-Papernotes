@@ -1,4 +1,4 @@
-# [Certifiability of Deep Learning models in security critical industries such as automotive.md]()
+# [Certifiability of Deep Learning models in security critical industries such as automotive]
 
 **Problem**: Certification/Regulation aspects of Machine Learning are still unclear: no industry standards, no traceability between the algorithm implementation and its requirements, mostly no determinism in training, neural networks pose attack vectors.
 
