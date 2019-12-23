@@ -24,7 +24,8 @@ Uncertainty for Autonomous Driving
  [PDF](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/The%20ML%20Test%20Score:%20A%20Rubric%20for%20ML%20Production%20Readiness%20and%20Technical%20Debt%20Reduction.md)
   - **TLDR**: Bringing software engineering best practices to deep learning.
 - VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
- [PDF](https://arxiv.org/abs/1711.06396) - [short summary](coming soon)
+ [PDF](https://arxiv.org/abs/1711.06396) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/VoxelNet:%20End-to-End%20Learning%20for%20Point%20Cloud%20Based%203D%20Object%20Detection.md)
+  - **TLDR**: End-to-end deep learning on point clouds requires special operations, in this case Stacked Voxel Feature Encoding.
 
 *09/ 2019*
 
@@ -44,6 +45,7 @@ Uncertainty for Autonomous Driving
 
 - VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
  [PDF](https://arxiv.org/pdf/1711.06396.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/VoxelNet:%20End-to-End%20Learning%20for%20Point%20Cloud%20Based%203D%20Object%20Detection.md)
+
 - Visualizing the Loss Landscape of Neural Nets
  [PDF](https://arxiv.org/abs/1712.09913) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Visualizing%20the%20Loss%20Landscape%20of%20Neural%20Nets.md)
 - Weight Agnostic Neural Networks
