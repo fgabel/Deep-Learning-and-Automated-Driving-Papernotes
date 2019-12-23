@@ -2,7 +2,7 @@
 
 Accurate detection of objects in 3D point clouds is central to many applications such as autonomous navigation, everyday robots (housekeeping, lawnmawers etc.), and augmented/virtual reality
 
-**Problem**: In 2D, object detection often utilizes a two-stage procedure where a **region proposal network** is first used to propose possible bounding boxes and then an image classifier is run inside these bounding boxes. However, LiDAR point clouds are much more sparse, making this approach hardly achievable. Most existing efforts have focused on hand-crafted feature representations, for example, a bird's eye view projection.
+**Problem**: LiDAR point clouds are mostly very sparse and have highly variable point density, due to factors such as non-uniform sampling of the 3D space, effective range of the sensors, occlusion, and the relative pose. Most existing efforts have focused on hand-crafted feature representations, for example, a bird's eye view projection.
 
 **Solution**: VoxelNet divides a point cloud into equally spaced 3D [voxels](https://en.wikipedia.org/wiki/Voxel) and transforms a group of points within each voxel into a unified feature representation through the newly introduced voxel feature encoding (VFE) layer. In this way, the point cloud is encoded as a descriptive volumetric representation, which is then connected to a RPN to generate detections.
 
