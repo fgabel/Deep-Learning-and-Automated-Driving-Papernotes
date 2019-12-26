@@ -3,6 +3,10 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 ## Section: Deep Learning 
 *12/2019*
+- PointRend: Image Segmentation as Rendering
+ [PDF](https://arxiv.org/pdf/1912.08193.pdf) - [short summary](coming soon)
+  - **TLDR**: In semantic segmentation, focusing on areas of high uncertainty along with adaptively upsampling seems to be a winning combination.
+
 - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
  [PDF](https://arxiv.org/pdf/1612.00593.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/PointNet:%20Deep%20Learning%20on%20Point%20Sets%20for%203D%20Classification%20and%20Segmentation.md)
   - **TLDR**: Performing 3D semantic segmentation on unordered point sets without 3D convolutions.
