@@ -1,4 +1,4 @@
-#[Road detection based on the fusion of Lidar and image data](https://journals.sagepub.com/doi/full/10.1177/1729881417738102)
+# [Road detection based on the fusion of Lidar and image data](https://journals.sagepub.com/doi/full/10.1177/1729881417738102)
 
 **Problem**: The goal of this paper is to fuse sensoric data from (2D) dense monocular images from electro-optical 
 cameras and sparse (3D) point clouds from LiDaRs. These sensors have their individual, complementary advantages.
@@ -7,11 +7,13 @@ cameras and sparse (3D) point clouds from LiDaRs. These sensors have their indiv
 * The main idea is to upsample sparse depth maps from LiDar using RGB images. However, RGB images 
 suffer from variable lighting conditions and shadows. Therefore, the authors use
  ["shadow-free" conversion](https://ieeexplore.ieee.org/abstract/document/6957936) (middle image in the below Figure). 
+ 
 ![BILD](../images/shadow-free.png?raw=true "Wireframe001")
 * The point clouds are projected into image space by matching coordinate frames (rotation and translation, known in advance), 
 resulting in sparse depth maps within the RGB images.
 * Interestingly, the authors use a good old ADABOOST for classification, which is amazingly fast 
 with decent results.
+
 ![BILD](../images/segmentations.gif?raw=true "Wireframe001")
 
 **Notes**:
