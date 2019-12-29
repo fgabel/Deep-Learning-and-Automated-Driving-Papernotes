@@ -19,7 +19,6 @@ with decent results.
 ![BILD](../images/segmentations.gif?raw=true "Wireframe001")
 
 **Notes**:
-* multimodality
 * Monocular cameras are cheap and yield a dense depiction of a scene, but lack night-vision and depth
 information. 3D perception systems (mostly LiDaR and stereo vision) often yield sparse data and lack resolution,especially for far-away objects, but are robust to changes in light
 conditions.
