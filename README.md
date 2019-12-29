@@ -111,7 +111,9 @@ Uncertainty for Autonomous Driving
 ## Section: Automated Driving
 
 *12 / 2019*
-
+- Road detection based on the fusion of Lidar and image data
+ [PDF](https://journals.sagepub.com/doi/full/10.1177/1729881417738102) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Rethinking%20Atrous%20Convolution%20for%20Semantic%20Image%20Segmentation.md)
+  - **TLDR**: Fuse image and 3D LiDaR data by first projecting the point clouds onto 2D monocular images, then perform road detection using a conditional random field.
 - Certifiability of Deep Learning models in security critical industries such as automotive [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Certifiability%20of%20Deep%20Learning%20models%20in%20security%20critical%20industries%20such%20as%20automotive.md)
   - **TLDR**: Large-scale deployment of deep learning models needs certification from authorities, which does not exist yet.
 
