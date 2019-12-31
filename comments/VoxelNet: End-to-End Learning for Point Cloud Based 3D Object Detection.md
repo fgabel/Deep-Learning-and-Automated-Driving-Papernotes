@@ -10,4 +10,6 @@ Accurate detection of objects in 3D point clouds is central to many applications
 
 
 **Notes**:
-* TBD
+* This paper basically aims at translating the principles of convolutional neural nets (mostly used in deep learning in the image domain) onto the 3D domain. However, as convolutions assumes a regular grid structure, we have to discretize the pixels similarly. This is a loss of information that might cost us. Other approaches avoiding this are PointNets that work without convolutions.
+* 3D convolutions are expensive!
+
