@@ -17,12 +17,19 @@ image plane where variance of pixel values is highest. Known methods for this ar
 [subdivision](http://graphics.stanford.edu/courses/cs468-10-fall/LectureSlides/10_Subdivision.pdf) and 
 [adaptive sampling](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.582.3808&rep=rep1&type=pdf).
 * Rendering 2D segmentation maps from 3D scenes can be seen as a rendering problem. The authors 
-propose PointRend, a plug-and-play module for CNNs. It takes typical feature maps of C channels and outputs
+propose PointRend, a plug-and-play module for CNNs. It takes typical feature maps f consisting of C channels and outputs
 K class predictions for each pixel in the originating feature map. On a high level, a PointRend 
 module consists of the following three ingredients:
   * point selection strategy (select points that exhibit large variations in segmentation wrt their neighbors)
-  * point-wise feature representation
-  * point head
+  * point-wise feature representation (for each of these points, a feature representation is extracted
+  from the 4 nearest neighbours on the grid of the feature maps f)
+  * point head (using the features extracted above, a small neural network trained to predict a label from this point-wise
+feature representation, independently for each point)
   
 **Notes**:
-* TO BE CONTINUED
+* In short, the PointRend module concentrates on regions where fine-grained structures are to be expected.
+This is done using knwon algorithms from rendering in computer vision. During inference, the
+authors use a subdivision algorithm. They also note that during training, this does not work
+as well due to backpropagation (as the point head has to be trained, it needs to be done for sure), 
+thus a random sampling is used (or a sampling based on the "confidence" of the segmentation).
+* The feature representation is a crucial step of the approach.
