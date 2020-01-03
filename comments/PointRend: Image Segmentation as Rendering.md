@@ -28,8 +28,15 @@ feature representation, independently for each point)
   
 **Notes**:
 * In short, the PointRend module concentrates on regions where fine-grained structures are to be expected.
-This is done using knwon algorithms from rendering in computer vision. During inference, the
+This is done using knwon algorithms from rendering in computer vision (subdivision), thereby saving compute resources. During inference, the
 authors use a subdivision algorithm. They also note that during training, this does not work
 as well due to backpropagation (as the point head has to be trained, it needs to be done for sure), 
 thus a random sampling is used (or a sampling based on the "confidence" of the segmentation).
-* The feature representation is a crucial step of the approach.
+* The **feature representation** is a crucial step of the approach (in the end, the point head neural network
+uses these features to perform fine-grained segmentation). PointRend constructs point-wise features at selected
+points by combining (e.g., concatenating) two feature types,
+**fine-grained** and **coarse prediction features**. Fine-grained features are vectors containing 
+*K* class predictions for a single point. Coarse prediction features are basically down-sampled feature maps (4 to 16 times smaller than the original image).
+This way, the point head neural network can then utilize both global and local information.
+* A PointRend module improves mIoU by more than 1% in most tasks which is especially nice as it is designed
+for improvements on small-scale regions.
