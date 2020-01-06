@@ -1,7 +1,7 @@
 # DEEP LEARNING and AUTOMATED DRIVING > papernotes
 personal notes and key points on papers related to DL and AD papers in under 400 words
 
-## Section: Deep Learning 
+## Section: Deep Learning
 *12/2019*
 - [PointRend: Image Segmentation as Rendering](https://arxiv.org/pdf/1912.08193.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/PointRend:%20Image%20Segmentation%20as%20Rendering.md)
   - **TLDR**: In semantic segmentation, focusing on areas of high uncertainty along with adaptively upsampling seems to be a winning combination.
@@ -106,6 +106,12 @@ Uncertainty for Autonomous Driving
 - Brain Tumor Segmentation with Deep Neural Networks [ARXIV](https://arxiv.org/pdf/1505.03540.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Brain%20Tumor%20Segmentation%20with%20Deep%20Neural%20Networks.md)
 
 ## Section: Automated Driving
+
+*01 / 2020*
+
+- Next Generation Radar Sensors in Automotive
+Sensor Fusion Systems [short summary](soon)
+  - **TLDR**: Radars are cool and provide unique sensoric capabilities indespensable for successful fully AD.
 
 *12 / 2019*
 - Road detection based on the fusion of Lidar and image data
