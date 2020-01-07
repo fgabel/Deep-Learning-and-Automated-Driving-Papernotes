@@ -141,7 +141,8 @@ for Motion Estimation and Prediction [PDF](https://arxiv.org/pdf/1908.03918.pdf)
 
 *07 / 2019*
 
-- ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst [PDF](https://arxiv.org/abs/1812.03079) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/ChauffeurNet:%20Learning%20to%20Drive%20by%20Imitating%20the%20Best%20and%20Synthesizing%20the%20Worst.md)
+- [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/abs/1812.03079) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/ChauffeurNet:%20Learning%20to%20Drive%20by%20Imitating%20the%20Best%20and%20Synthesizing%20the%20Worst.md)
+  - **TLDR**: Imitation learning (what children do) can work for autonomous driving, but only if you provide data on malicious situations such as going off the road / collisions (e.g. via simulation).
 
 *06 / 2019*
 
