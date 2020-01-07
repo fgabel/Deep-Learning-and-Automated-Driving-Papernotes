@@ -2,6 +2,12 @@
 personal notes and key points on papers related to DL and AD papers in under 400 words
 
 ## Section: Deep Learning
+
+*01/2020*
+- [StarNet: Targeted Computation for
+Object Detection in Point Clouds](https://arxiv.org/pdf/1908.11069.pdf) - [short summary](soon)
+  - **TLDR**: Yet another method for non-volumetric 3D object detection. State-of-the-art on Waymo Open.
+
 *12/2019*
 - [PointRend: Image Segmentation as Rendering](https://arxiv.org/pdf/1912.08193.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/PointRend:%20Image%20Segmentation%20as%20Rendering.md)
   - **TLDR**: In semantic segmentation, focusing on areas of high uncertainty along with adaptively upsampling seems to be a winning combination.
