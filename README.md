@@ -5,7 +5,7 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 *01/2020*
 - [StarNet: Targeted Computation for
-Object Detection in Point Clouds](https://arxiv.org/pdf/1908.11069.pdf) - [short summary](soon)
+Object Detection in Point Clouds](https://arxiv.org/pdf/1908.11069.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/StarNet:%20Targeted%20Computation%20for%20Object%20Detection%20in%20Point%20Clouds.md)
   - **TLDR**: Yet another method for non-volumetric 3D object detection. State-of-the-art on Waymo Open.
 
 *12/2019*
