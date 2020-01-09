@@ -48,6 +48,7 @@ Uncertainty for Autonomous Driving
 
 - [LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving](https://arxiv.org/abs/1903.08701) - [coming soon]()
 - [A Survey of Deep Learning-based Object Detection](https://arxiv.org/pdf/1907.09408.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/A%20Survey%20of%20Deep%20Learning-based%20Object%20Detection.md)
+  - **TLDR**: Great resource on 2D and 3D object detection and corresponding datasets.
 
 *06 / 2019*
 
