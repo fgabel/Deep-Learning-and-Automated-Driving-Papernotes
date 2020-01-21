@@ -4,8 +4,11 @@ personal notes and key points on papers related to DL and AD papers in under 400
 ## Section: Deep Learning
 
 *01/2020*
+- [FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data](https://arxiv.org/pdf/1912.08487.pdf) - [short summary](TBD)
+  - **TLDR**: Cool high-level sensor fusion method of RGB and LiDAR data using learned point correspondences.
+
 - [StarNet: Targeted Computation for
-Object Detection in Point Clouds](https://arxiv.org/pdf/1908.11069.pdf) - [short summary](soon)
+Object Detection in Point Clouds](https://arxiv.org/pdf/1908.11069.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/StarNet:%20Targeted%20Computation%20for%20Object%20Detection%20in%20Point%20Clouds.md)
   - **TLDR**: Yet another method for non-volumetric 3D object detection. State-of-the-art on Waymo Open.
 
 *12/2019*
@@ -46,13 +49,13 @@ Uncertainty for Autonomous Driving
 
 *07 / 2019*
 
-- LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving [PDF](https://arxiv.org/abs/1903.08701) - [coming soon]()
-- A Survey of Deep Learning-based Object Detection [PDF](https://arxiv.org/pdf/1907.09408.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/A%20Survey%20of%20Deep%20Learning-based%20Object%20Detection.md)
+- [LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving](https://arxiv.org/abs/1903.08701) - [coming soon]()
+- [A Survey of Deep Learning-based Object Detection](https://arxiv.org/pdf/1907.09408.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/A%20Survey%20of%20Deep%20Learning-based%20Object%20Detection.md)
+  - **TLDR**: Great resource on 2D and 3D object detection and corresponding datasets.
 
 *06 / 2019*
 
-- VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
- [PDF](https://arxiv.org/pdf/1711.06396.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/VoxelNet:%20End-to-End%20Learning%20for%20Point%20Cloud%20Based%203D%20Object%20Detection.md)
+- [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/pdf/1711.06396.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/VoxelNet:%20End-to-End%20Learning%20for%20Point%20Cloud%20Based%203D%20Object%20Detection.md)
 
 - Visualizing the Loss Landscape of Neural Nets
  [PDF](https://arxiv.org/abs/1712.09913) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Visualizing%20the%20Loss%20Landscape%20of%20Neural%20Nets.md)
