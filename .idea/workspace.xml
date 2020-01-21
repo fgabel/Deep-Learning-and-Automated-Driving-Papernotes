@@ -51,8 +51,8 @@
         <entry file="file://$PROJECT_DIR$/comments/StarNet: Targeted Computation for Object Detection in Point Clouds.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="480">
-                <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <first_editor relative-caret-position="504">
+                <caret line="39" column="83" selection-start-line="39" selection-start-column="83" selection-end-line="39" selection-end-column="83" />
               </first_editor>
               <second_editor />
             </state>
@@ -539,8 +539,8 @@
     <entry file="file://$PROJECT_DIR$/comments/StarNet: Targeted Computation for Object Detection in Point Clouds.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="480">
-            <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <first_editor relative-caret-position="504">
+            <caret line="39" column="83" selection-start-line="39" selection-start-column="83" selection-end-line="39" selection-end-column="83" />
           </first_editor>
           <second_editor />
         </state>
