@@ -26,3 +26,4 @@ cost of these sensors is prohibitive.](https://www.futurecar.com/2333/Should-Nig
 * The authors achieve a framerate of 21 FPS which is good enough for automotive applications.
 * The resolution of these cameras is typically rather small, making it easy to process the image 
 but limiting the usability as a stand-alone sensor.
+* All in all, FIR will need to overcome challenges of cost, field of view and increased durability to meet the stringent criteria for automation-grade sensors. 
