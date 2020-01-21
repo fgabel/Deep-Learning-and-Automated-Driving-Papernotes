@@ -118,7 +118,7 @@ Uncertainty for Autonomous Driving
 
 *01 / 2020*
 
-- [Night-Time Vehicle Sensing in Far Infrared Image with Deep Learning](https://www.hindawi.com/journals/js/2016/3403451/) - [short summary](soon)
+- [Night-Time Vehicle Sensing in Far Infrared Image with Deep Learning](https://www.hindawi.com/journals/js/2016/3403451/) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Night-Time%20Vehicle%20Sensing%20in%20Far%20Infrared%20Image%20with%20Deep%20Learning.md)
   - **TLDR**: Far infrared automotive sensors offer night vision and can be used for learning-based object detection.
 - [Next Generation Radar Sensors in Automotive
 Sensor Fusion Systems](https://ieeexplore.ieee.org/document/8126389) - [short summary](soon)
