@@ -147,7 +147,8 @@ Sensor Fusion Systems](https://ieeexplore.ieee.org/document/8126389) - [short su
 - DynaNet: Neural Kalman Dynamical Model
 for Motion Estimation and Prediction [PDF](https://arxiv.org/pdf/1908.03918.pdf) - [short summary]()
 - A Multimodal Vision Sensor for Autonomous Driving [PDF](https://arxiv.org/pdf/1908.05649.pdf) - [short summary]()
-- Deep Sensor Fusion for Real-Time Odometry Estimation [PDF](https://arxiv.org/pdf/1908.00524.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Deep%20Sensor%20Fusion%20for%20Real-Time%20Odometry%20Estimation.md)
+- [Deep Sensor Fusion for Real-Time Odometry Estimation](https://arxiv.org/pdf/1908.00524.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Deep%20Sensor%20Fusion%20for%20Real-Time%20Odometry%20Estimation.md)
+  - **TLDR**: Theoretically, self-localization can be enhanced considerably using 2D LiDAR-scanners. The practicability of the approach is to be questionned.
 
 
 *07 / 2019*
