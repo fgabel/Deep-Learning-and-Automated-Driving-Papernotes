@@ -4,7 +4,7 @@ personal notes and key points on papers related to DL and AD papers in under 400
 ## Section: Deep Learning
 
 *01/2020*
-- [FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data](https://arxiv.org/pdf/1912.08487.pdf) - [short summary](TBD)
+- [FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data](https://arxiv.org/pdf/1912.08487.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/FuseSeg:%20LiDAR%20Point%20Cloud%20Segmentation%20Fusing%20Multi-Modal%20Data.md)
   - **TLDR**: Cool high-level sensor fusion method of RGB and LiDAR data using learned point correspondences.
 
 - [StarNet: Targeted Computation for
