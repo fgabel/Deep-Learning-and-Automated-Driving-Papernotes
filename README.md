@@ -11,7 +11,6 @@ personal notes and key points on papers related to DL and AD papers in under 400
 *01/2020*
 - [FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data](https://arxiv.org/pdf/1912.08487.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/FuseSeg:%20LiDAR%20Point%20Cloud%20Segmentation%20Fusing%20Multi-Modal%20Data.md)
   - **TLDR**: Cool high-level sensor fusion method of RGB and LiDAR data using learned point correspondences.
-
 - [StarNet: Targeted Computation for
 Object Detection in Point Clouds](https://arxiv.org/pdf/1908.11069.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/StarNet:%20Targeted%20Computation%20for%20Object%20Detection%20in%20Point%20Clouds.md)
   - **TLDR**: Yet another method for non-volumetric 3D object detection. State-of-the-art on Waymo Open.
