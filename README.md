@@ -4,6 +4,8 @@ personal notes and key points on papers related to DL and AD papers in under 400
 ## Section: Deep Learning
 
 *02/2020*
+- [MeteorNet: Deep Learning on Dynamic 3D Point Cloud Sequences](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_MeteorNet_Deep_Learning_on_Dynamic_3D_Point_Cloud_Sequences_ICCV_2019_paper.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/MeteorNet:%20Deep%20Learning%20on%20Dynamic%203D%20Point%20Cloud%20Sequences.md)
+  - **TLDR**: Incorporating spatiotemporal relationships by design improves performance. Based on PointNet.
 - [Performance Evaluation of Object Tracking Algorithms](https://pdfs.semanticscholar.org/ad76/bdc7d06a7ec496ac788d667c6ad5fcc0fe41.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Performance%20Evaluation%20of%20Object%20Tracking%20Algorithms.md)
   - **TLDR**: Performance for video tracking algorithms can be evaluated with various metrices with different strengths and weaknesses.
 
