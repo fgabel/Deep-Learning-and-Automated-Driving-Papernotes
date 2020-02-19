@@ -3,10 +3,14 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 ## Section: Deep Learning
 
+*02/2020*
+- [Performance Evaluation of Object Tracking Algorithms](https://pdfs.semanticscholar.org/ad76/bdc7d06a7ec496ac788d667c6ad5fcc0fe41.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Performance%20Evaluation%20of%20Object%20Tracking%20Algorithms.md)
+  - **TLDR**: Performance for video tracking algorithms can be evaluated with various metrices with different strengths and weaknesses.
+
+
 *01/2020*
 - [FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data](https://arxiv.org/pdf/1912.08487.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/FuseSeg:%20LiDAR%20Point%20Cloud%20Segmentation%20Fusing%20Multi-Modal%20Data.md)
   - **TLDR**: Cool high-level sensor fusion method of RGB and LiDAR data using learned point correspondences.
-
 - [StarNet: Targeted Computation for
 Object Detection in Point Clouds](https://arxiv.org/pdf/1908.11069.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/StarNet:%20Targeted%20Computation%20for%20Object%20Detection%20in%20Point%20Clouds.md)
   - **TLDR**: Yet another method for non-volumetric 3D object detection. State-of-the-art on Waymo Open.
