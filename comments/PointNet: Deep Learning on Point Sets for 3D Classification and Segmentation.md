@@ -3,7 +3,7 @@
 **Problem**: Extrapolating methods and principles from 2D data (images) to 3D geometric data 
 such as point clouds is not possible due to **sparsity** and **irregularity**. Most methods
 "voxelize" point clouds to introduce regularity or calculate a collection of images (views)
-from these point clouds. However, these representations entail a loss of information.
+from these point clouds. However, these representations entail a loss of information (called **quantization** error).
 
 **Solution**: In PointNet, the complete spatial structure of all 3D points is preserved.
 The below figure demonstrates the approach.
