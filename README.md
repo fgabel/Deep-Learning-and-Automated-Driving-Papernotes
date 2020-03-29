@@ -3,6 +3,10 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 ## Section: Deep Learning
 
+*03/2020*
+- [Class-Balanced Loss Based on Effective Number of Samples](https://vision.cornell.edu/se3/wp-content/uploads/2019/05/class_balanced.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/MeteorNet:%20Deep%20Learning%20on%20Dynamic%203D%20Point%20Cloud%20Sequences.md)
+  - **TLDR**: Vanilla reweighting or resampling strategies suck at representing long-tailed distributions. Geometrical representations of data can help with balancing labels for deep learning.
+
 *02/2020*
 - [MeteorNet: Deep Learning on Dynamic 3D Point Cloud Sequences](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_MeteorNet_Deep_Learning_on_Dynamic_3D_Point_Cloud_Sequences_ICCV_2019_paper.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/MeteorNet:%20Deep%20Learning%20on%20Dynamic%203D%20Point%20Cloud%20Sequences.md)
   - **TLDR**: Incorporating spatiotemporal relationships by design improves performance. Based on PointNet.
