@@ -7,12 +7,15 @@ as the number of samples increases, the additional benefit of a newly added data
 
 **Solution**:  The authors introduce a more enhanced resampling scheme: by associating with each sample a small neighboring region rather than a single point, the effective number of samples
 is defined as the volume of samples. This incorporates overlap efficiently and allows an effective balancing across classes.
+The below Figure displays the general idea: No re-weighting causes a classifier to be biased towards the head of the distribution, inverse class frequency causes a bias towards the tail of the distribution.
+
+![Class-balanced Reweighting](../images/reweighting.png?raw=true "Demonstration of Reweighting")
 
 
-![SiamMask](../images/687474703a2f2f7777772e726f626f74732e6f782e61632e756b2f7e7177616e672f5369616d4d61736b2f696d672f5369616d4d61736b5f64656d6f2e676966.gif?raw=true "Demonstration of SiamMask")
+**Notes**: 
+* Most of previous efforts on long-tailed imbalanced data can be divided into two regimes: **re-sampling**
+(including over-sampling and under-sampling) and **cost-sensitive learning** (e.g. inverse frequency sampling).
+* Mathematically, the authors borrow an idea called [random covering](https://projecteuclid.org/euclid.acta/1485890413) - i.e. associate each sample with a small neighboring region instead of a single point. This way, common data points which are close by each other don't skew the resampling towards this class: see the Figure below.
+![Class-balanced Reweighting](../images/overlap.png?raw=true "Overlap")
+* By weighing the losses of a data point with its associated class-balanced weights improves classification performance on CIFAR considerably (2% to 5%). Experiments on other vision tasks have not been conducted by the authors.
 
-
-**Notes**:
-* SiamMask works by leveraging Siamese CNNs, which have equal branches with shared weights. By feeding two different inputs, the repective outputs can be compared to learn about similarity (or further processed). In SiamMask, the two inputs correspond to 1) a crop centered on the target object and 2) a larger crop centered on the last estimated position of the target. 
-* The crucial idea is to try and maximize the similarity (over different randomized search areas) and thereby gain an understanding of the direction the target object moves to. By using Region proposal networks as CNNs, the outputs of the Siamese networks are region proposals whose similarity can be compared, yielding bounding box coordinates and similarity scores.
-* The authors also introduce frame-wise binary segmentations within the predicted masks. This 
