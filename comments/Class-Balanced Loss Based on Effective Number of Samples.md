@@ -17,5 +17,6 @@ The below Figure displays the general idea: No re-weighting causes a classifier 
 (including over-sampling and under-sampling) and **cost-sensitive learning** (e.g. inverse frequency sampling).
 * Mathematically, the authors borrow an idea called [random covering](https://projecteuclid.org/euclid.acta/1485890413) - i.e. associate each sample with a small neighboring region instead of a single point. This way, common data points which are close by each other don't skew the resampling towards this class: see the Figure below.
 ![Class-balanced Reweighting](../images/overlap.png?raw=true "Overlap")
+
 * By weighing the losses of a data point with its associated class-balanced weights improves classification performance on CIFAR considerably (2% to 5%). Experiments on other vision tasks have not been conducted by the authors.
 
