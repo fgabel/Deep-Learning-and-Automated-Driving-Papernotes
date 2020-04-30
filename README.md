@@ -3,6 +3,10 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 ## Section: Deep Learning
 
+*04/2020*
+- [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/EfficientDet:%20Scalable%20and%20Efficient%20Object%20Detection.md)
+  - **TLDR**: A clever architecture for multi-scale feature aggregation vastly improves the state of the art in object detection and semantic segmentation. Awesome.
+
 *03/2020*
 - [Class-Balanced Loss Based on Effective Number of Samples](https://vision.cornell.edu/se3/wp-content/uploads/2019/05/class_balanced.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Class-Balanced%20Loss%20Based%20on%20Effective%20Number%20of%20Samples.md)
   - **TLDR**: Vanilla reweighting or resampling strategies suck at representing long-tailed distributions. Geometrical representations of data can help with balancing labels for deep learning.
