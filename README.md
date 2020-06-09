@@ -3,6 +3,11 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 ## Section: Deep Learning
 
+*06/2020*
+- [Disentangling Monocular 3D Object Detection
+](http://openaccess.thecvf.com/content_ICCV_2019/papers/Simonelli_Disentangling_Monocular_3D_Object_Detection_ICCV_2019_paper.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Disentangling%20Monocular%203D%20Object%20Detection.md)
+  - **TLDR**: Interesting. Deriving 3D bounding boxes from 2D images, powered by an improved loss function.
+
 *04/2020*
 - [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/EfficientDet:%20Scalable%20and%20Efficient%20Object%20Detection.md)
   - **TLDR**: A clever architecture for multi-scale feature aggregation vastly improves the state of the art in object detection and semantic segmentation. Awesome.
