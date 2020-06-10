@@ -3,34 +3,34 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 ## Section: Deep Learning
 
-*06/2020*
+*06 / 2020*
 - [Disentangling Monocular 3D Object Detection
 ](http://openaccess.thecvf.com/content_ICCV_2019/papers/Simonelli_Disentangling_Monocular_3D_Object_Detection_ICCV_2019_paper.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Disentangling%20Monocular%203D%20Object%20Detection.md)
   - **TLDR**: Interesting. Deriving 3D bounding boxes from 2D images, powered by an improved loss function.
 
-*04/2020*
+*04 / 2020*
 - [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/EfficientDet:%20Scalable%20and%20Efficient%20Object%20Detection.md)
   - **TLDR**: A clever architecture for multi-scale feature aggregation vastly improves the state of the art in object detection and semantic segmentation. Awesome.
 
-*03/2020*
+*03 / 2020*
 - [Class-Balanced Loss Based on Effective Number of Samples](https://vision.cornell.edu/se3/wp-content/uploads/2019/05/class_balanced.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Class-Balanced%20Loss%20Based%20on%20Effective%20Number%20of%20Samples.md)
   - **TLDR**: Vanilla reweighting or resampling strategies suck at representing long-tailed distributions. Geometrical representations of data can help with balancing labels for deep learning.
 
-*02/2020*
+*02 / 2020*
 - [MeteorNet: Deep Learning on Dynamic 3D Point Cloud Sequences](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_MeteorNet_Deep_Learning_on_Dynamic_3D_Point_Cloud_Sequences_ICCV_2019_paper.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/MeteorNet:%20Deep%20Learning%20on%20Dynamic%203D%20Point%20Cloud%20Sequences.md)
   - **TLDR**: Incorporating spatiotemporal relationships by design improves performance. Based on PointNet.
 - [Performance Evaluation of Object Tracking Algorithms](https://pdfs.semanticscholar.org/ad76/bdc7d06a7ec496ac788d667c6ad5fcc0fe41.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Performance%20Evaluation%20of%20Object%20Tracking%20Algorithms.md)
   - **TLDR**: Performance for video tracking algorithms can be evaluated with various metrices with different strengths and weaknesses.
 
 
-*01/2020*
+*01 / 2020*
 - [FuseSeg: LiDAR Point Cloud Segmentation Fusing Multi-Modal Data](https://arxiv.org/pdf/1912.08487.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/FuseSeg:%20LiDAR%20Point%20Cloud%20Segmentation%20Fusing%20Multi-Modal%20Data.md)
   - **TLDR**: Cool high-level sensor fusion method of RGB and LiDAR data using learned point correspondences.
 - [StarNet: Targeted Computation for
 Object Detection in Point Clouds](https://arxiv.org/pdf/1908.11069.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/StarNet:%20Targeted%20Computation%20for%20Object%20Detection%20in%20Point%20Clouds.md)
   - **TLDR**: Yet another method for non-volumetric 3D object detection. State-of-the-art on Waymo Open.
 
-*12/2019*
+*12 / 2019*
 - [PointRend: Image Segmentation as Rendering](https://arxiv.org/pdf/1912.08193.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/PointRend:%20Image%20Segmentation%20as%20Rendering.md)
   - **TLDR**: In semantic segmentation, focusing on areas of high uncertainty along with adaptively upsampling seems to be a winning combination.
 - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/pdf/1612.00593.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/PointNet:%20Deep%20Learning%20on%20Point%20Sets%20for%203D%20Classification%20and%20Segmentation.md)
@@ -38,7 +38,7 @@ Object Detection in Point Clouds](https://arxiv.org/pdf/1908.11069.pdf) - [short
 - [Adversarial Examples Improve Image Recognition](https://arxiv.org/pdf/1911.09665.pdf) - [short summary](coming soon)
   - **TLDR**: Image classification is already at human level, but it can further be improved with adversarial examples.
 
-*11/2019*
+*11 / 2019*
 
 - [Rethinking Atrous Convolution for Semantic Image Segmentation (DeepLab)](https://arxiv.org/abs/1706.05587) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Rethinking%20Atrous%20Convolution%20for%20Semantic%20Image%20Segmentation.md)
   - **TLDR**: Atrous convolutions resolves the issue of intentional information loss through maxpooling. Also, control the field-of-view of filters more efficiently.
@@ -47,7 +47,7 @@ Uncertainty for Autonomous Driving
  [PDF](https://arxiv.org/pdf/1904.04620.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Gaussian%20YOLOv3:%20An%20Accurate%20and%20Fast%20Object%20Detector%20Using%20Localization%20Uncertainty%20for%20Autonomous%20Driving.md)
   - **TLDR**: Modelling the uncertainty in bounding box predictions of YOLOv3 as a Gaussian parameter.
   
-*10/ 2019*
+*10 / 2019*
 
 - The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction
  [PDF](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/The%20ML%20Test%20Score:%20A%20Rubric%20for%20ML%20Production%20Readiness%20and%20Technical%20Debt%20Reduction.md)
@@ -56,7 +56,7 @@ Uncertainty for Autonomous Driving
  [PDF](https://arxiv.org/abs/1711.06396) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/VoxelNet:%20End-to-End%20Learning%20for%20Point%20Cloud%20Based%203D%20Object%20Detection.md)
   - **TLDR**: End-to-end deep learning on point clouds requires special operations, in this case Stacked Voxel Feature Encoding.
 
-*09/ 2019*
+*09 / 2019*
 
 - A critique of pure learning: what artificial neural nets can learn from animal brains [PDF](https://www.biorxiv.org/content/biorxiv/early/2019/03/20/582643.full.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/A%20critique%20of%20pure%20learning:%20what%20artificial%20neural%20nets%20can%20learn%20from%20animal%20brains.md)
 
