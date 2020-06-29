@@ -12,3 +12,6 @@
 
 ![Proposed analytical setup](../images/adv_robustness.png)
 
+* Both robust and non-robust features typically constitute useful signals for standard classification. The authors disentangle these features to be able to analyze non-robust, but useful features - see the above picture.
+
+* Interestingly, the robustness of features always depends on the attack method chosen. However, one of the most intriguing properties of adversarial examples is that they transfer across models with different architectures and independently sampled training sets.
