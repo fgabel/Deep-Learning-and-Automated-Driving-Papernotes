@@ -65,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/comments/Performance Evaluation of Object Tracking Algorithms.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="364">
+              <first_editor relative-caret-position="510">
                 <caret line="34" selection-start-line="34" selection-end-line="34" />
               </first_editor>
               <second_editor />
@@ -77,8 +77,8 @@
         <entry file="file://$PROJECT_DIR$/comments/MeteorNet: Deep Learning on Dynamic 3D Point Cloud Sequences.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <first_editor relative-caret-position="15">
+                <caret line="1" selection-start-line="1" selection-end-line="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -169,7 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,11 +185,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/volocopter/CADAVER" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -258,8 +258,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="71" y="-4" width="1849" height="1084" extended-state="6" />
-    <editor active="true" />
+    <frame x="70" y="-11" width="1851" height="1092" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32948583" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -267,8 +266,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3347324" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32948583" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32633787" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25845814" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32633787" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26123127" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -760,7 +759,7 @@
     <entry file="file://$PROJECT_DIR$/comments/Performance Evaluation of Object Tracking Algorithms.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="364">
+          <first_editor relative-caret-position="510">
             <caret line="34" selection-start-line="34" selection-end-line="34" />
           </first_editor>
           <second_editor />
@@ -770,8 +769,8 @@
     <entry file="file://$PROJECT_DIR$/comments/MeteorNet: Deep Learning on Dynamic 3D Point Cloud Sequences.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <first_editor relative-caret-position="15">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
           </first_editor>
           <second_editor />
         </state>
