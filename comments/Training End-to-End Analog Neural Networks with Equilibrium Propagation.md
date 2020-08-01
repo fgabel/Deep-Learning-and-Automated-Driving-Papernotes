@@ -6,7 +6,9 @@
 
 **Problem**: The **von Neumann bottleneck** describes the problem arising from the separation of memory and processing in today's deep learning: moving the data back and forth between memory and compute units leads to grave performance degradation. Building fast and energy-efficient neural networks requires a non-von Neumann computing paradigm which unifies memory and processing, by performing neural computations at the physical location of the synapses, where the strength of the connections (the weights of the neural network) are stored and adjusted. 
 
-**Solution**: The authors show that the analog NNs used here (nonlinear resistive networks) are energy-based models as a consequence of [Kirchhoff's laws](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws#Kirchhoff's_current_law). The update rule for each conductance is local and relies solely on the voltage drop across the corresponding resistor. In simulation, the authors show that this computes the gradient of the loss function.
+**Solution**: Essentially, analog neural networks are networks where weights and activations are represented as continuous physical values as opposed to memory representations of floating point numbers.
+The authors show that the analog NNs used here (nonlinear resistive networks) are energy-based models as a consequence of [Kirchhoff's laws](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws#Kirchhoff's_current_law). The update rule for each conductance is local and relies solely on the voltage drop across the corresponding resistor. In simulation, the authors show that this computes the gradient of the loss function.
+
 
 **Notes**: 
 
