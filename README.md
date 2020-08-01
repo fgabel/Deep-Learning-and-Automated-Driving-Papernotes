@@ -46,28 +46,27 @@ Object Detection in Point Clouds](https://arxiv.org/pdf/1908.11069.pdf) - [short
 
 - [Rethinking Atrous Convolution for Semantic Image Segmentation (DeepLab)](https://arxiv.org/abs/1706.05587) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Rethinking%20Atrous%20Convolution%20for%20Semantic%20Image%20Segmentation.md)
   - **TLDR**: Atrous convolutions resolves the issue of intentional information loss through maxpooling. Also, control the field-of-view of filters more efficiently.
-- Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization
-Uncertainty for Autonomous Driving
- [PDF](https://arxiv.org/pdf/1904.04620.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Gaussian%20YOLOv3:%20An%20Accurate%20and%20Fast%20Object%20Detector%20Using%20Localization%20Uncertainty%20for%20Autonomous%20Driving.md)
+  
+- [Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization
+Uncertainty for Autonomous Driving](https://arxiv.org/pdf/1904.04620.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Gaussian%20YOLOv3:%20An%20Accurate%20and%20Fast%20Object%20Detector%20Using%20Localization%20Uncertainty%20for%20Autonomous%20Driving.md)
   - **TLDR**: Modelling the uncertainty in bounding box predictions of YOLOv3 as a Gaussian parameter.
   
 *10 / 2019*
 
-- The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction
- [PDF](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/The%20ML%20Test%20Score:%20A%20Rubric%20for%20ML%20Production%20Readiness%20and%20Technical%20Debt%20Reduction.md)
+- [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/The%20ML%20Test%20Score:%20A%20Rubric%20for%20ML%20Production%20Readiness%20and%20Technical%20Debt%20Reduction.md)
   - **TLDR**: Bringing software engineering best practices to deep learning.
-- VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
- [PDF](https://arxiv.org/abs/1711.06396) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/VoxelNet:%20End-to-End%20Learning%20for%20Point%20Cloud%20Based%203D%20Object%20Detection.md)
+  
+- [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/1711.06396) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/VoxelNet:%20End-to-End%20Learning%20for%20Point%20Cloud%20Based%203D%20Object%20Detection.md)
   - **TLDR**: End-to-end deep learning on point clouds requires special operations, in this case Stacked Voxel Feature Encoding.
 
 *09 / 2019*
 
-- A critique of pure learning: what artificial neural nets can learn from animal brains [PDF](https://www.biorxiv.org/content/biorxiv/early/2019/03/20/582643.full.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/A%20critique%20of%20pure%20learning:%20what%20artificial%20neural%20nets%20can%20learn%20from%20animal%20brains.md)
+- [A critique of pure learning: what artificial neural nets can learn from animal brains](https://www.biorxiv.org/content/biorxiv/early/2019/03/20/582643.full.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/A%20critique%20of%20pure%20learning:%20what%20artificial%20neural%20nets%20can%20learn%20from%20animal%20brains.md)
 
 *08 / 2019*
-- Events-to-Video: Bringing Modern Computer Vision to Event Cameras [PDF](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf) - [short summary](coming soon)
-- Fast Online Object Tracking and Segmentation: A Unifying Approach [PDF](https://arxiv.org/abs/1812.05050) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Fast%20Online%20Object%20Tracking%20and%20Segmentation:%20A%20Unifying%20Approach.md)
-- Hybrid Task Cascade for Instance Segmentation [PDF](https://arxiv.org/abs/1901.07518) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Hybrid%20Task%20Cascade%20for%20Instance%20Segmentation.md)
+- [Events-to-Video: Bringing Modern Computer Vision to Event Cameras](http://rpg.ifi.uzh.ch/docs/CVPR19_Rebecq.pdf) - [short summary](coming soon)
+- [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://arxiv.org/abs/1812.05050) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Fast%20Online%20Object%20Tracking%20and%20Segmentation:%20A%20Unifying%20Approach.md)
+- [Hybrid Task Cascade for Instance Segmentation](https://arxiv.org/abs/1901.07518) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Hybrid%20Task%20Cascade%20for%20Instance%20Segmentation.md)
 
 *07 / 2019*
 
