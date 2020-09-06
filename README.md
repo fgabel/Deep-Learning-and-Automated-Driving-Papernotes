@@ -3,6 +3,11 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 ## Section: Deep Learning
   
+ *08 / 2020*
+- [The Fishyscapes Benchmark:
+Measuring Blind Spots in Semantic Segmentation](https://arxiv.org/pdf/1904.03215.pdf) - [short summary](TBD)
+  - **TLDR**: A dataset and benchmark for the critical task of handling unknown objects in semantic segmentations.
+ 
 *06 / 2020*
 - [Training End-to-End Analog Neural Networks with Equilibrium Propagation](https://arxiv.org/pdf/2006.01981.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Training%20End-to-End%20Analog%20Neural%20Networks%20with%20Equilibrium%20Propagation.md)
   - **TLDR**: A proof that end-to-end training of analog neural networks works in practice.
