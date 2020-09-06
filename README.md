@@ -5,7 +5,7 @@ personal notes and key points on papers related to DL and AD papers in under 400
   
  *08 / 2020*
 - [The Fishyscapes Benchmark:
-Measuring Blind Spots in Semantic Segmentation](https://arxiv.org/pdf/1904.03215.pdf) - [short summary](TBD)
+Measuring Blind Spots in Semantic Segmentation](https://arxiv.org/pdf/1904.03215.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/The%20Fishyscapes%20Benchmark:%20Measuring%20Blind%20Spots%20in%20Semantic%20Segmentation.md)
   - **TLDR**: A dataset and benchmark for the critical task of handling unknown objects in semantic segmentations.
  
 *06 / 2020*
