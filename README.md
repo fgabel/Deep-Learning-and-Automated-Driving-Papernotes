@@ -7,7 +7,7 @@ personal notes and key points on papers related to DL and AD papers in under 400
 - [Towards spike-based machine intelligence with neuromorphic computing](https://www.nature.com/articles/s41586-019-1677-2) - [short summary]()
   - **TLDR**: The brain has spiking neurons, current AI almost never has. Neuromorphic computing utilizes algorithm–hardware codesign to realize spiking neural networks.
   
- *07 / 2020*
+ *09 / 2020*
 - [The Fishyscapes Benchmark:
 Measuring Blind Spots in Semantic Segmentation](https://arxiv.org/pdf/1904.03215.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/The%20Fishyscapes%20Benchmark:%20Measuring%20Blind%20Spots%20in%20Semantic%20Segmentation.md)
   - **TLDR**: A dataset and benchmark for the critical task of handling unknown objects in semantic segmentations.
