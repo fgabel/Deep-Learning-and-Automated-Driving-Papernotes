@@ -2,13 +2,17 @@
 personal notes and key points on papers related to DL and AD papers in under 400 words
 
 ## Section: Deep Learning
+ *11/ 2020*
+
+- [Towards spike-based machine intelligence with neuromorphic computing](https://www.nature.com/articles/s41586-019-1677-2) - [short summary]()
+  - **TLDR**: The brain has spiking neurons, current AI almost never has. Neuromorphic computing utilizes algorithm–hardware codesign to realize spiking neural networks.
   
- *08 / 2020*
+ *07 / 2020*
 - [The Fishyscapes Benchmark:
 Measuring Blind Spots in Semantic Segmentation](https://arxiv.org/pdf/1904.03215.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/The%20Fishyscapes%20Benchmark:%20Measuring%20Blind%20Spots%20in%20Semantic%20Segmentation.md)
   - **TLDR**: A dataset and benchmark for the critical task of handling unknown objects in semantic segmentations.
  
-*06 / 2020*
+*07 / 2020*
 - [Training End-to-End Analog Neural Networks with Equilibrium Propagation](https://arxiv.org/pdf/2006.01981.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Training%20End-to-End%20Analog%20Neural%20Networks%20with%20Equilibrium%20Propagation.md)
   - **TLDR**: A proof that end-to-end training of analog neural networks works in practice.
 
@@ -16,7 +20,7 @@ Measuring Blind Spots in Semantic Segmentation](https://arxiv.org/pdf/1904.03215
 ](http://openaccess.thecvf.com/content_ICCV_2019/papers/Simonelli_Disentangling_Monocular_3D_Object_Detection_ICCV_2019_paper.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Disentangling%20Monocular%203D%20Object%20Detection.md)
   - **TLDR**: Interesting. Deriving 3D bounding boxes from 2D images, powered by an improved loss function.
 
-*04 / 2020*
+*05 / 2020*
 - [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/EfficientDet:%20Scalable%20and%20Efficient%20Object%20Detection.md)
   - **TLDR**: A clever architecture for multi-scale feature aggregation vastly improves the state of the art in object detection and semantic segmentation. Awesome.
 
