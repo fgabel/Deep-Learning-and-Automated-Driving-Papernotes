@@ -2,6 +2,13 @@
 personal notes and key points on papers related to DL and AD papers in under 400 words
 
 ## Section: Deep Learning
+ *12/ 2020*
+
+- [Towards spike-based machine intelligence with neuromorphic computingSTDP-based spiking deep convolutional neural networks
+for object recognition](https://arxiv.org/pdf/1611.01421.pdf) - [short summary](TBD)
+  - **TLDR**:TBD
+  
+
  *11/ 2020*
 
 - [Towards spike-based machine intelligence with neuromorphic computing](https://www.nature.com/articles/s41586-019-1677-2) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Towards%20spike-based%20machine%20intelligence%20with%20neuromorphic%20computing.md)
@@ -134,6 +141,12 @@ Uncertainty for Autonomous Driving](https://arxiv.org/pdf/1904.04620.pdf) - [sho
 - Brain Tumor Segmentation with Deep Neural Networks [ARXIV](https://arxiv.org/pdf/1505.03540.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Brain%20Tumor%20Segmentation%20with%20Deep%20Neural%20Networks.md)
 
 ## Section: Automated Driving
+
+*12 / 2020*
+
+- [Tire and Vehicle Dynamics](https://www.elsevier.com/books/tire-and-vehicle-dynamics/pacejka/978-0-08-097016-5) - [short summary](Coming soon.)
+  - **TLDR**: Coming soon.
+
 
 *01 / 2020*
 
