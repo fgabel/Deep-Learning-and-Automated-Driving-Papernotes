@@ -4,8 +4,8 @@ personal notes and key points on papers related to DL and AD papers in under 400
 ## Section: Deep Learning
  *11/ 2020*
 
-- [Towards spike-based machine intelligence with neuromorphic computing](https://www.nature.com/articles/s41586-019-1677-2) - [short summary]()
-  - **TLDR**: The brain has spiking neurons, current AI almost never has. Neuromorphic computing utilizes algorithm–hardware codesign to realize spiking neural networks.
+- [Towards spike-based machine intelligence with neuromorphic computing](https://www.nature.com/articles/s41586-019-1677-2) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Towards%20spike-based%20machine%20intelligence%20with%20neuromorphic%20computing.md)
+  - **TLDR**: The brain has spiking neurons, current AI does not. Neuromorphic computing utilizes algorithms and software–hardware codesign to realize spiking neural networks.
   
  *09 / 2020*
 - [The Fishyscapes Benchmark:
