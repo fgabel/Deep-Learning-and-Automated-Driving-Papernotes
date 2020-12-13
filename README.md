@@ -3,7 +3,7 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 ## Section: Deep Learning
  *12/ 2020*
- - [Attribution Preservation in Network Compression for Reliable Network Interpretation](https://arxiv.org/pdf/2010.15054v1.pdf) - [short summary](TBD)
+- [Attribution Preservation in Network Compression for Reliable Network Interpretation](https://arxiv.org/pdf/2010.15054v1.pdf) - [short summary](TBD)
   - **TLDR**: Compressing neural networks for inference is in conflict with information attribution, which can be used for explanation of network outputs in safety-critical domains.
 
 - [Towards spike-based machine intelligence with neuromorphic computing - STDP-based spiking deep convolutional neural networks
