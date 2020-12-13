@@ -7,8 +7,9 @@
 
 * The **perception** module consists of all sensors - LiDAR, RaDAR, cameras, IMUs, GNSS/RTK, odometers etc., the **decision making** module is responsible for navigating the car
 from its initial position to the final goal defined by the user, considering the current car's State and the internal representation of the environment, as
-well as traffic rules and passengers' safety and comfort. The **Localizer subsystem** (Figure 1) is responsible
-for estimating the car's State (pose, linear velocities, angular velocities, etc.) in relation to static maps of the environment. These static maps, or **Offline Maps**, are
+well as traffic rules and passengers' safety and comfort. 
+The **Localizer subsystem** (Figure 1) is responsiblen for estimating the car's State (pose, linear velocities, angular velocities, etc.) in relation to static maps of the environment. 
+These static maps, or **Offline Maps**, are
 computed automatically before the autonomous operation, typically using the sensors of the self-driving car itself, although
 manual annotations (i.e., the position of pedestrian crosswalks
 or of traffic lights) or editions (for removing non-static objects
