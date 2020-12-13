@@ -4,9 +4,9 @@ personal notes and key points on papers related to DL and AD papers in under 400
 ## Section: Deep Learning
  *12/ 2020*
 
-- [Towards spike-based machine intelligence with neuromorphic computingSTDP-based spiking deep convolutional neural networks
+- [Towards spike-based machine intelligence with neuromorphic computing - STDP-based spiking deep convolutional neural networks
 for object recognition](https://arxiv.org/pdf/1611.01421.pdf) - [short summary](TBD)
-  - **TLDR**:TBD
+  - **TLDR**: Unlike "classical" neural networks, bio-inspired spiking neural net make heavy use of timing for both learning and inference.
   
 
  *11/ 2020*
