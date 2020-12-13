@@ -192,5 +192,5 @@ Sensor Fusion Systems](https://ieeexplore.ieee.org/document/8126389) - [short su
 
 *06 / 2019*
 
-- [Self-Driving Cars: A Survey](https://arxiv.org/abs/1901.04407) - [short summary](coming soon)
+- [Self-Driving Cars: A Survey](https://arxiv.org/abs/1901.04407) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Self-Driving%20Cars:%20A%20Survey.md)
 - [LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving](https://arxiv.org/abs/1903.08701) - [short summary](coming soon)
