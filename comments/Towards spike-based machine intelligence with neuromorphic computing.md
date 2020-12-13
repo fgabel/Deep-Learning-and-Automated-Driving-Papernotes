@@ -19,7 +19,7 @@ weights, which translates to learning in SNNs - relies on the relative
 timing of pre- and post-synaptic spikes. Also, training data (i.e. "spike trains") is hard to obtain from, say, static-image databases like CIFAR.
 Practically, in terms of accuracy, SNNs are still behind their second-generation deep-learning counterparts in most learning tasks.
 The below Figure displays classical NN learning (left) and SNN learning (right).
-![A simple example for SNN learning](../images/learningSNNs.png)
+![A simple example for SNN learning](../images/trainingSNNs.png)
 
 
 * The design of neuromorphic [chips](https://en.wikipedia.org/wiki/Neuromorphic_engineering) and [sensors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4809886/) is projected to fit to the principles of SNNs much more closely. Research directions are clock-less hardware designs (asynchronous address event representation), NOCs (networks-on-chip) for spike communication, in-memory computing and memristors.
