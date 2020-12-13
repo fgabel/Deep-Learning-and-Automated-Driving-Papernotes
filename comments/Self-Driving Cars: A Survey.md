@@ -1,6 +1,6 @@
 # [Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf)
 
-**TLDR: A general overview of self-driving car architecture (often perception and decision-making) and subdivided system components.
+**TLDR**: A general overview of self-driving car architecture (often perception and decision-making) and subdivided system components.
 
 * A typical Architecture of a self-Driving car in the following Figure. The different subsystems are described below.  
 ![Self-driving car architecture](../images/self-driving-car-architecture.png)
