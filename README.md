@@ -169,20 +169,18 @@ Sensor Fusion Systems](https://ieeexplore.ieee.org/document/8126389) - [short su
 
 *11 / 2019*
 
-- Stereo R-CNN based 3D Object Detection for Autonomous Driving
- [PDF](https://arxiv.org/pdf/1902.09738.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Rethinking%20Atrous%20Convolution%20for%20Semantic%20Image%20Segmentation.md)
+- [Stereo R-CNN based 3D Object Detection for Autonomous Driving](https://arxiv.org/pdf/1902.09738.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Rethinking%20Atrous%20Convolution%20for%20Semantic%20Image%20Segmentation.md)
   - **TLDR**: End-to-end learning of an 3D object detection model using stereo camera inputs.
 
 *10 / 2019*
 
-- Autonomous Vehicle Implementation Prediction [PDF](https://www.vtpi.org/avip.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Autonomous%20Vehicle%20Implementation%20Predictions.md)
+- [Autonomous Vehicle Implementation Prediction](https://www.vtpi.org/avip.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Autonomous%20Vehicle%20Implementation%20Predictions.md)
   - **TLDR**: Autonomous cars might cause enormous benefits to society, but we're not there yet. From an city planning perspective.
   
 *08 / 2019*
 
-- DynaNet: Neural Kalman Dynamical Model
-for Motion Estimation and Prediction [PDF](https://arxiv.org/pdf/1908.03918.pdf) - [short summary]()
-- A Multimodal Vision Sensor for Autonomous Driving [PDF](https://arxiv.org/pdf/1908.05649.pdf) - [short summary]()
+- [DynaNet: Neural Kalman Dynamical Model for Motion Estimation and Prediction](https://arxiv.org/pdf/1908.03918.pdf) - [short summary]()
+- [A Multimodal Vision Sensor for Autonomous Driving](https://arxiv.org/pdf/1908.05649.pdf) - [short summary]()
 - [Deep Sensor Fusion for Real-Time Odometry Estimation](https://arxiv.org/pdf/1908.00524.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Deep%20Sensor%20Fusion%20for%20Real-Time%20Odometry%20Estimation.md)
   - **TLDR**: Theoretically, self-localization can be enhanced considerably using 2D LiDAR-scanners. The practicability of the approach is to be questionned.
 
@@ -194,5 +192,5 @@ for Motion Estimation and Prediction [PDF](https://arxiv.org/pdf/1908.03918.pdf)
 
 *06 / 2019*
 
-- Self-Driving Cars: A Survey [PDF](https://arxiv.org/abs/1901.04407) - [short summary]()
-- LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving [PDF](https://arxiv.org/abs/1903.08701) - [short summary](coming soon)
+- [Self-Driving Cars: A Survey](https://arxiv.org/abs/1901.04407) - [short summary](coming soon)
+- [LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving](https://arxiv.org/abs/1903.08701) - [short summary](coming soon)
