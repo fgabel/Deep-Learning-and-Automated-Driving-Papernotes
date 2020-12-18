@@ -9,4 +9,4 @@
 STDP, synapses through which a presynaptic spike arrived before (respectively after) a postsynaptic one are reinforced (respectively depressed).
 
 * The SNN architecture of the authors is as follows:
-![Spiking neural network architecture](snn_arch.png)
+![Spiking neural network architecture](../images/snn_arch.png)
