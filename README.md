@@ -12,7 +12,7 @@ personal notes and key points on papers related to DL and AD papers in under 400
   - **TLDR**: Compressing neural networks for inference is in conflict with information attribution, which can be used for explanation of network outputs in safety-critical domains.
 
 - [Towards spike-based machine intelligence with neuromorphic computing - STDP-based spiking deep convolutional neural networks
-for object recognition](https://arxiv.org/pdf/1611.01421.pdf) - short summary(https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/STDP-based%20spiking%20deep%20convolutional%20neural%20networks%20for%20object%20recognition.md)
+for object recognition](https://arxiv.org/pdf/1611.01421.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/STDP-based%20spiking%20deep%20convolutional%20neural%20networks%20for%20object%20recognition.md)
   - **TLDR**: Unlike "classical" neural networks, bio-inspired spiking neural net make heavy use of timing for both learning and inference.
   
  *11/ 2020*
