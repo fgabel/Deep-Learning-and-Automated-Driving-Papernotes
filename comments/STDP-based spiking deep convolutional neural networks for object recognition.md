@@ -10,3 +10,6 @@ STDP, synapses through which a presynaptic spike arrived before (respectively af
 
 * The SNN architecture of the authors is as follows:
 ![Spiking neural network architecture](../images/snn_arch.png)
+The first layer is a [DoG filter](https://en.wikipedia.org/wiki/Difference_of_Gaussians) which resembles the center-surround properties of the
+ganglion cells of the retina. Following that, neurons in all convolutional layers are nonleaky integrate-and-fire neurons, which gather input spikes from presynaptic neurons and emit a spike when their internal potentials reach a prespecified threshold. Pooling layers help the network to gain invariance
+by doing a nonlinear max pooling operation over a set of neighboring neurons with the same preferred feature.
