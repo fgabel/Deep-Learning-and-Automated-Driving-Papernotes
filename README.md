@@ -5,8 +5,8 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 *01/ 2021*
 
-- [https://arxiv.org/pdf/1911.05248v2.pdf](https://arxiv.org/pdf/1911.05248v2.pdf) - short summary(TBD)
-  - **TLDR**: ,
+- [What Do Compressed Deep Neural Networks Forget?](https://arxiv.org/pdf/1911.05248v2.pdf) - short summary(TBD)
+  - **TLDR**: Compression disproportionately impacts model performance on the underrepresented long-tail of the data distribution.
 
 *12/ 2020*
 
