@@ -10,7 +10,7 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 *12/ 2020*
 
-- [Detection and Retrieval of Out-of-Distribution Objects in Semantic Segmentation](https://arxiv.org/pdf/2005.06831.pdf) - short summary(TBD)
+- [Detection and Retrieval of Out-of-Distribution Objects in Semantic Segmentation](https://arxiv.org/pdf/2005.06831.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Detection%20and%20Retrieval%20of%20Out-of-Distribution%20Objects%20in%20Semantic%20Segmentation.md)
   - **TLDR**: Yet another interesting method for uncertainty quantification in semantic segmentation NNs.
 
 - [Attribution Preservation in Network Compression for Reliable Network Interpretation](https://arxiv.org/pdf/2010.15054v1.pdf) - short summary(TBD)
