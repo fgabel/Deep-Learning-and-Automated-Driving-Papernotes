@@ -14,3 +14,5 @@ The idea of the authors is to *rate* each segmented patch with regards to 75 dif
 * The authors propose a way of further inspecting weak segmentations by using a technique called image retrieval, where feature vectors of these segments (e.g. obtained by a vanilla VGG) are compared with feature vectors from Imagenet images. This way, weaknesses of the original semantic segmentation algorithm can be revealed.
 * It's unclear how the authors trained the regression task used for determining the probability of an OOD object being present. As far as I understood, the authors use a framework called [MetaSeg](https://github.com/mrottmann/MetaSeg) to predict the IoU of a given segment with the ground truth. This, in turn, correlates with the OOD probability. 
 * In general, this method is quite clever and runs without OOD labels. However, there is no comparison with benchmarks such as Fishyscapes which, in my view, is a grave weakness of the paper.
+
+![Prediction of the proposed method. Could be better](../images/pred_metaseg.png)
