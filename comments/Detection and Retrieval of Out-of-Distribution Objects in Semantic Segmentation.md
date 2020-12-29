@@ -4,7 +4,10 @@
 
 **Solution**: 
 The idea of the authors is to *rate* each segmented patch with regards to 75 different dispersion metrics, i.e. if the softmax score for a certain pixel has a high standard deviation, these metrics should reflect that (see the below Figure). Each of these metrics is calculated per-pixel and aggregated over an image patch with similar segmentation. With these scores (per segmented patch), a regression is run to determine the probability of an OOD object being present.
+
+
 ![Formulae of the metrics used](../images/metrics_ood.png)
+
 
 **Notes**:
 * This method treats the neural network like a blackbox, i.e., at inference time it only uses the softmax output of the neural network. As such, inference per-se is not affected by the method and no restrictions on latency or memory requirements apply.
