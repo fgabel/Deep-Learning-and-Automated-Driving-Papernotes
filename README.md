@@ -5,7 +5,7 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 *01/ 2021*
 
-- [What Do Compressed Deep Neural Networks Forget?](https://arxiv.org/pdf/1911.05248v2.pdf) - short summary(TBD)
+- [What Do Compressed Deep Neural Networks Forget?](https://arxiv.org/pdf/1911.05248v2.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/What%20Do%20Compressed%20Deep%20Neural%20Networks%20Forget%3F.md)
   - **TLDR**: Compression disproportionately impacts model performance on the underrepresented long-tail of the data distribution.
 
 *12/ 2020*
