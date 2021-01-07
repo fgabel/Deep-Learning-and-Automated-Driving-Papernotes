@@ -7,7 +7,7 @@ I will talk about both *model compression* and *input attribution* in the **note
 **Solution**:
 The authors propose techniques to preserve diverse levels of attribution maps while compressing the networks by regularizing the differences between the sampled attribution maps. Very simply, this is equal to 
 
-*Notes**
+**Notes**
 * *Model compression* refers to any activity that reduces the size of the network while maintaining the predictive performance of the network within a certain acceptable margin (pruning, distillation, quantization, and more).
 * An *attribution* M for an input data point x at a certain layer is a multidimensional tensor containing the importance values of each input or neuron at that
 layer which the network considers important in making its according prediction. These attribution values are calculated based on the magnitude of the point and its sensitivity to change of value.
