@@ -16,5 +16,6 @@ transferring the attributional power of its past self to the current self") - th
 network is forced to have similar attribution maps as the original network (see below).
 There are variants of this approach by incorporating attribution maps channel-wise or incorporating gradients.
 ![Attribution preservation](../images/attribution_preservation.png)
-* The results are quite convincing across all compression methods and also improve accuracy values. This method might become standard when compressing neural networks in safety-critical scenarios.
+* The results are quite convincing across all compression methods and also improve accuracy values. This method might become standard when compressing neural networks in safety-critical scenarios (see below, the rightmost column is the one trained with attribution preservation, the three to the left of it are standard pruning outputs).
+
 ![Attribution preservation](../images/results_preservation.png)
