@@ -105,6 +105,8 @@ Uncertainty for Autonomous Driving](https://arxiv.org/pdf/1904.04620.pdf) - [sho
 - [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/pdf/1711.06396.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/VoxelNet:%20End-to-End%20Learning%20for%20Point%20Cloud%20Based%203D%20Object%20Detection.md)
 
 - [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Visualizing%20the%20Loss%20Landscape%20of%20Neural%20Nets.md)
+  - **TLDR**: Neat method to learn about the shape of the loss surface in deep neural networks.
+
 - [Weight Agnostic Neural Networks](https://arxiv.org/abs/1906.04358) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Weight%20Agnostic%20Neural%20Networks.md)
 - [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175v2.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Adversarial%20Examples%20Are%20Not%20Bugs%2C%20They%20Are%20Features.md)
   - **TLDR**: Dividing features of an image classifier into robust and non-robust helps causally determine effects of adversarial examples
