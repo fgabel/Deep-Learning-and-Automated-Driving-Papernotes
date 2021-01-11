@@ -5,6 +5,9 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 *01/ 2021*
 
+- [Mixed Precision Training](https://arxiv.org/pdf/1710.03740.pdf) - [short summary](COMING SOON)
+  - **TLDR**: Three techniques for neural network compression for faster inference and training speed: master copying FP32 weights, loss scaling and FP16 calculation/FP32 accumulation.
+
 - [What Do Compressed Deep Neural Networks Forget?](https://arxiv.org/pdf/1911.05248v2.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/What%20Do%20Compressed%20Deep%20Neural%20Networks%20Forget%3F.md)
   - **TLDR**: Compression disproportionately impacts model performance on the underrepresented long-tail of the data distribution.
 
