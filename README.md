@@ -33,6 +33,10 @@ for object recognition](https://arxiv.org/pdf/1611.01421.pdf) - [short summary](
 Measuring Blind Spots in Semantic Segmentation](https://arxiv.org/pdf/1904.03215.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/The%20Fishyscapes%20Benchmark:%20Measuring%20Blind%20Spots%20in%20Semantic%20Segmentation.md)
   - **TLDR**: A dataset and benchmark for the critical task of handling unknown objects in semantic segmentations.
  
+ *08 / 2020*
+- [Deep Compression: Compressing Deep Neural Networks with pruning, trained quantization and Huffman coding](https://arxiv.org/pdf/1510.00149.pdf) - [short summary](SPOON)
+  - **TLDR**: One of the very first papers on modern neural network compression. Iconic. 
+ 
 *07 / 2020*
 - [Training End-to-End Analog Neural Networks with Equilibrium Propagation](https://arxiv.org/pdf/2006.01981.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Training%20End-to-End%20Analog%20Neural%20Networks%20with%20Equilibrium%20Propagation.md)
   - **TLDR**: A proof that end-to-end training of analog neural networks works in practice.
