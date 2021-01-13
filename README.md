@@ -34,7 +34,7 @@ Measuring Blind Spots in Semantic Segmentation](https://arxiv.org/pdf/1904.03215
   - **TLDR**: A dataset and benchmark for the critical task of handling unknown objects in semantic segmentations.
  
  *08 / 2020*
-- [Deep Compression: Compressing Deep Neural Networks with pruning, trained quantization and Huffman coding](https://arxiv.org/pdf/1510.00149.pdf) - [short summary](SPOON)
+- [Deep Compression: Compressing Deep Neural Networks with pruning, trained quantization and Huffman coding](https://arxiv.org/pdf/1510.00149.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Deep%20Compression:%20Compressing%20Deep%20Neural%20Networks%20with%20pruning,%20trained%20quantization%20and%20Huffman%20coding.md)
   - **TLDR**: One of the very first papers on modern neural network compression. Iconic. 
  
 *07 / 2020*
