@@ -27,3 +27,4 @@ The above points will be dealt with extensively in the following.
 
 - **Localizer subsystem**: Depends mostly on GPS, which is unreliable in urban scenarios. Thus, other sensor modalities such as LiDAR, cameras or hybrid approaches can feed an EKF or similar for localization.
 - **Mapper subsystem**: There are metric (as a regular grid) and topological (as a graph of irregular nodes) representations of the environment. A very common metric representation is [Occupancy grid mapping](https://en.wikipedia.org/wiki/Occupancy_grid_mapping) where the occupancy of grid cells (in the range of centimeters) is calculated using sensor data. [GraphSLAM](https://en.wikipedia.org/wiki/GraphSLAM) imposes soft contraints onto a path. Combining these two in an online manner (FastSLAM) is a very common occurance in self-driving cars these days.
+- **Road mapper subsystem**  
