@@ -141,7 +141,7 @@ Uncertainty for Autonomous Driving](https://arxiv.org/pdf/1904.04620.pdf) - [sho
 *12 / 2017*
 
 - [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Dynamic%20Routing%20Between%20Capsules.md)
- - **TLDR** Introducing a prior with regards to neuron grouping makes various learning tasks easier, but computationally challenging.
+  - **TLDR** Introducing a prior with regards to neuron grouping makes various learning tasks easier, but computationally challenging.
 *11 / 2017*
 
 - Video Object Segmentation with Re-identification
