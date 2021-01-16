@@ -150,8 +150,7 @@ Uncertainty for Autonomous Driving](https://arxiv.org/pdf/1904.04620.pdf) - [sho
 
 *10 / 2017*
 
-- Learning Video Object Segmentation from Static Images
- [PDF](https://graphics.ethz.ch/~perazzif/masktrack/files/masktrack.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Learning%20Video%20Object%20Segmentation%20from%20Static%20Images.md)
+- [Learning Video Object Segmentation from Static Images](https://arxiv.org/pdf/1612.02646.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Learning%20Video%20Object%20Segmentation%20from%20Static%20Images.md)
 
 *09 / 2017*
 
