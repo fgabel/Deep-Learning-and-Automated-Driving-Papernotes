@@ -155,7 +155,8 @@ Uncertainty for Autonomous Driving](https://arxiv.org/pdf/1904.04620.pdf) - [sho
 
 *09 / 2017*
 
-- Training RNNs as Fast as CNNs [ARXIV](https://arxiv.org/pdf/1709.02755.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Training%20RNNs%20as%20Fast%20as%20CNNs.md)
+- [Training RNNs as Fast as CNNs](https://arxiv.org/pdf/1709.02755.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Training%20RNNs%20as%20Fast%20as%20CNNs.md)
+**TLDR**: Temporal dependencies slow down RNN training. This can be remedied using highway connections.
 - Video Frame Interpolation via Adaptive Separable Convolution [ARXIV](https://arxiv.org/abs/1708.01692) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Video%20Frame%20Interpolation%20via%20Adaptive%20Separable%20Convolution.md)
 - Speech recognition with deep recurrent neural networks [ARXIV](https://arxiv.org/abs/1303.5778) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/speech-recognition-with-deep-recurrent-neural-networks.md)
 - Brain Tumor Segmentation with Deep Neural Networks [ARXIV](https://arxiv.org/pdf/1505.03540.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Brain%20Tumor%20Segmentation%20with%20Deep%20Neural%20Networks.md)
@@ -198,8 +199,8 @@ Sensor Fusion Systems](https://ieeexplore.ieee.org/document/8126389) - [short su
   
 *08 / 2019*
 
-- [DynaNet: Neural Kalman Dynamical Model for Motion Estimation and Prediction](https://arxiv.org/pdf/1908.03918.pdf) - [short summary]()
-- [A Multimodal Vision Sensor for Autonomous Driving](https://arxiv.org/pdf/1908.05649.pdf) - [short summary]()
+- [DynaNet: Neural Kalman Dynamical Model for Motion Estimation and Prediction](https://arxiv.org/pdf/1908.03918.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Deep%20Sensor%20Fusion%20for%20Real-Time%20Odometry%20Estimation.md)
+- [A Multimodal Vision Sensor for Autonomous Driving](https://arxiv.org/pdf/1908.05649.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Deep%20Sensor%20Fusion%20for%20Real-Time%20Odometry%20Estimation.md)
 - [Deep Sensor Fusion for Real-Time Odometry Estimation](https://arxiv.org/pdf/1908.00524.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Deep%20Sensor%20Fusion%20for%20Real-Time%20Odometry%20Estimation.md)
   - **TLDR**: Theoretically, self-localization can be enhanced considerably using 2D LiDAR-scanners. The practicability of the approach is to be questionned.
 
