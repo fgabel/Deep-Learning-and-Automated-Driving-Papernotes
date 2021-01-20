@@ -21,7 +21,6 @@ for DRAM access - well beyond the power envelope of a typical mobile device.
 four output units. There are 4x4 = 16 weights originally but there are only 4 shared weights: similar
 weights are grouped together to share the same value.
 ![Attribution preservation](../images/weight_sharing.png)
-* The results are quite convincing across all compression methods and also improve accuracy values. This method might become standard when compressing neural networks in safety-critical scenarios (see below, the rightmost column is the one trained with attribution preservation, the three to the left of it are standard pruning outputs).
 
 * In the end, the authors leave a great section on *SPEEDUP AND ENERGY EFFICIENCY*, which I recommend readers to read themselves, it's enlightening.
 
