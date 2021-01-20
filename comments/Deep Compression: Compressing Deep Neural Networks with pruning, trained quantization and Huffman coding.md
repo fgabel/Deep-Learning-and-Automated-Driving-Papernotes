@@ -1,4 +1,4 @@
-# [Deep Compression: Compressing Deep Neural Networks with pruning, trained quantization and Huffman coding](https://arxiv.org/pdf/2010.15054v1.pdf)
+# [Deep Compression: Compressing Deep Neural Networks with pruning, trained quantization and Huffman coding](https://arxiv.org/abs/1510.00149)
 
 **Problem**: Deployment of neural networks is hard on memory and computational resources, which is especially relevant for embedded devices which are highly constrained environments.
 
