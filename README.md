@@ -5,6 +5,9 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 *01/ 2021*
 
+- [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://arxiv.org/pdf/1712.05877.pdf) - [short summary](COMING SOON)
+  - **TLDR**: The most iconic paper for neural network acceleration to date.
+
 - [Mixed Precision Training](https://arxiv.org/pdf/1710.03740.pdf) - [short summary](COMING SOON)
   - **TLDR**: Three techniques for neural network compression for faster inference and training speed: master copying FP32 weights, loss scaling and FP16 calculation/FP32 accumulation.
 
