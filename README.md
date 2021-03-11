@@ -3,9 +3,12 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 ## Section: Deep Learning
 
-*02/ 2021*
+*03/ 2021*
 
 - [Deep Unsupervised Anomaly Detection](https://openaccess.thecvf.com/content/WACV2021/papers/Li_Deep_Unsupervised_Anomaly_Detection_WACV_2021_paper.pdf) - [short summary](COMING SOON)
+  - **TLDR**: Coming soon.
+
+- [Driver Anomaly Detection: A Dataset and Contrastive Learning Approach](https://openaccess.thecvf.com/content/WACV2021/papers/Kopuklu_Driver_Anomaly_Detection_A_Dataset_and_Contrastive_Learning_Approach_WACV_2021_paper.pdf) - [short summary](COMING SOON)
   - **TLDR**: Coming soon.
 
 *02/ 2021*
@@ -175,6 +178,11 @@ Uncertainty for Autonomous Driving](https://arxiv.org/pdf/1904.04620.pdf) - [sho
 - Brain Tumor Segmentation with Deep Neural Networks [ARXIV](https://arxiv.org/pdf/1505.03540.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Brain%20Tumor%20Segmentation%20with%20Deep%20Neural%20Networks.md)
 
 ## Section: Automated Driving
+
+*03/ 2021*
+
+- [Driver Anomaly Detection: A Dataset and Contrastive Learning Approach](https://openaccess.thecvf.com/content/WACV2021/papers/Kopuklu_Driver_Anomaly_Detection_A_Dataset_and_Contrastive_Learning_Approach_WACV_2021_paper.pdf) - [short summary](COMING SOON)
+  - **TLDR**: Coming soon.
 
 *12 / 2020*
 
