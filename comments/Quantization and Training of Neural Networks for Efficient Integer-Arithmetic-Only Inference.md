@@ -21,7 +21,7 @@ be overly stringent on model representation.
 
 
 * Input and outputs are represented as 8-bit integers. The convolution involves 8-bit integer operands and a 32-bit integer accumulator.
-The bias addition involves ![Proposed analytical setup](../images/integer-only-inference.png)only 32-bit integers. Finally, the ReLU6 nonlinearity only involves 8-bit integer arithmetic.
+The bias addition involves only 32-bit integers. Finally, the ReLU6 nonlinearity only involves 8-bit integer arithmetic.
 ![Proposed analytical setup](../images/integer-only-inference.png)
 **Notes**:
 *  The authors note that it is easy to obtain sizable compression in many architectures, reducing
