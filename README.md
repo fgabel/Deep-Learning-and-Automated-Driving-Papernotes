@@ -5,6 +5,11 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 *02/ 2021*
 
+- [Deep Unsupervised Anomaly Detection](https://openaccess.thecvf.com/content/WACV2021/papers/Li_Deep_Unsupervised_Anomaly_Detection_WACV_2021_paper.pdf) - [short summary](COMING SOON)
+  - **TLDR**: Coming soon.
+
+*02/ 2021*
+
 - [High-Performance Large-Scale Image Recognition Without Normalization](https://arxiv.org/pdf/2102.06171.pdf) - [short summary](COMING SOON)
   - **TLDR**: Coming soon.
 
