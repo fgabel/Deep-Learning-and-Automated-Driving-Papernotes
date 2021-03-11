@@ -17,9 +17,16 @@ improvements. More runtime-friendly approaches quantize
 both the weights and the activations into 1 bit representations. With these approaches, both multiplications and additions can be implemented by efficient bit-shift operations. However, 1 bit quantization often leads to substantial performance degradation, and may
 be overly stringent on model representation. 
 
-**Solution**:
+**Solution**: The main claim of the paper is: *Adversarial vulnerability is a direct result of a models’ sensitivity to well-generalizing features in the data.*
 
-**Notes**
+
+* Input and outputs are represented as 8-bit integers. The convolution involves 8-bit integer operands and a 32-bit integer accumulator.
+The bias addition involves ![Proposed analytical setup](../images/integer-only-inference.png)only 32-bit integers. Finally, the ReLU6 nonlinearity only involves 8-bit integer arithmetic.
+![Proposed analytical setup](../images/integer-only-inference.png)
+**Notes**:
+*  The authors note that it is easy to obtain sizable compression in many architectures, reducing
+quantization experiments on these architectures to proof-of-concepts at best. Instead, a more meaningful challenge
+would be to quantize model architectures that are already efficient at trading off latency with accuracy, e.g. MobileNets.
 
 ![Attribution preservation](../images/weight_sharing.png)
 
