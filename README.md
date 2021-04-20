@@ -3,6 +3,11 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 ## Section: Deep Learning
 
+*04/ 2021*
+
+- [Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf) - [short summary](COMING SOON)
+  - **TLDR**: Coming soon.
+
 *03/ 2021*
 
 - [Deep Unsupervised Anomaly Detection](https://openaccess.thecvf.com/content/WACV2021/papers/Li_Deep_Unsupervised_Anomaly_Detection_WACV_2021_paper.pdf) - [short summary](COMING SOON)
