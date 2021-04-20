@@ -5,8 +5,8 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 *04/ 2021*
 
-- [Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf) - [short summary](COMING SOON)
-  - **TLDR**: Coming soon.
+- [Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf) - [short summary](https://github.com/fgabel/Deep-Learning-and-Automated-Driving-Papernotes/blob/master/comments/Squeeze-and-Excitation%20Networks.md)
+  - **TLDR**: Learning global weights for activation maps instead of simply summing them up leads to better performance and fewer parameters.
 
 *03/ 2021*
 
