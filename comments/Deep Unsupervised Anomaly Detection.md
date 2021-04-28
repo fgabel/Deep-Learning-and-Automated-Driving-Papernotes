@@ -6,10 +6,11 @@ with insufficient similarity to the rest of the data. This similarity can be com
 for the data depends on what constitutes an anomaly. This forces anomaly detection into a chicken-or-egg problem in which there are a pair of problems, neither of which can be
 solved before the other.
 
-**Solution**: SiamMask, a conceptual combination of the fast [fully-convolutional Siamese networks](https://arxiv.org/abs/1606.09549) and [YouTube-VOS](https://youtube-vos.org/), a huge dataset of videos with pixel-level annotations, reaching 55 FPS and new state-of-the-art performances on the VOT2016 benchmark.
+**Solution**: The authors utilize an iterative clustering process, beginning with a process called [distribution-clustering](https://arxiv.org/abs/1804.02624), an algorithm for grouping high-dimensional data points such as images by their (unknown) underlying distribution. Using this clustering, they define a "normal" dataset and then iterating over clustering the latent space of a learned autoencoder based on normal data. The process is also shown in the below Figure.
 
 
-![SiamMask](../images/687474703a2f2f7777772e726f626f74732e6f782e61632e756b2f7e7177616e672f5369616d4d61736b2f696d672f5369616d4d61736b5f64656d6f2e676966.gif?raw=true "Demonstration of SiamMask")
+![SiamMask](../images/deep_unsupervised_novelty_detection.png
+?raw=true "Deep Unsupervised Novelty Detection")
 
 
 **Notes**:
