@@ -3,6 +3,11 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 ## Section: Deep Learning
 
+*06/ 2021*
+
+- [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://arxiv.org/pdf/2007.08176.pdf) - [short summary]()
+  - **TLDR**: Soon.
+
 *05/ 2021*
 
 - [Involution: Inverting the Inherence of Convolution for Visual Recognition](https://arxiv.org/pdf/2103.06255.pdf) - [short summary]()
