@@ -5,6 +5,9 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 *06/ 2021*
 
+- [Pixel-wise Anomaly Detection in Complex Driving Scenes](https://arxiv.org/pdf/2103.05445v1.pdf) - [short summary]()
+  - **TLDR**: Soon.
+
 - [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://arxiv.org/pdf/2007.08176.pdf) - [short summary]()
   - **TLDR**: Soon.
 
