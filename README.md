@@ -3,6 +3,11 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 ## Section: Deep Learning
 
+*08/ 2021*
+
+- [Generalizable Pedestrian Detection: The Elephant In The Room](https://arxiv.org/pdf/2003.08799v7.pdf) - [short summary]()
+  - **TLDR**: Pedestrian Detection doesn't generalize well across datasets, even when trained on large corpora of data. Domain shifts are problematic.
+
 *07/ 2021*
 
 - [Deep Depth from Aberration Map](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kashiwagi_Deep_Depth_From_Aberration_Map_ICCV_2019_paper.pdf) - [short summary]()
