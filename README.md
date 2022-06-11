@@ -3,6 +3,12 @@ personal notes and key points on papers related to DL and AD papers in under 400
 
 ## Section: Deep Learning
 
+*06/ 2022*
+
+- [Imbalance Problems in Object Detection: A Review]([https://arxiv.org/pdf/2003.08799v7.pdf](https://arxiv.org/pdf/1909.00169.pdf)) - [short summary]()
+  - **TLDR**: Imbalance in object detection comes in various different flavours.
+
+
 *08/ 2021*
 
 - [Generalizable Pedestrian Detection: The Elephant In The Room](https://arxiv.org/pdf/2003.08799v7.pdf) - [short summary]()
