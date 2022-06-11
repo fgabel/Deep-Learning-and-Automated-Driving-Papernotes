@@ -4,3 +4,8 @@
 
 **Notes**:
 * Imbalance problems can be one of four kinds: **Class imbalance**, **Scale imbalance**, **Spatial imbalance**, **objective imbalance**.
+* Class imbalance: occurs when a certain class is over-represented. (often fixed by over-/undersampling)
+* Scale imbalance is observed when object instances have various scales and different number of examples pertaining to different scales.
+* Objective imbalance occurs when there are multiple objectives (loss
+functions) to minimize (each for a specific task, e.g. classifi-
+cation and box-regression).
